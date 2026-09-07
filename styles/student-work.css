@@ -1,0 +1,32 @@
+.resume-content{position:absolute;inset:0;pointer-events:none;opacity:1}
+.about [data-student-personal]{z-index:1}
+.student-work-folder{position:absolute;z-index:0;transform-origin:center bottom;pointer-events:none}
+.student-work-folder[data-raised="true"]{z-index:2}
+.student-work-folder[data-state="closed"]{transition:translate .22s,scale .22s,filter .22s}
+.student-work-folder[data-state="closed"]:is(.is-hovered,.is-focused){translate:6px -6px!important;scale:1.02;filter:drop-shadow(0 8px 10px rgba(60,45,35,.12)) drop-shadow(0 2px 3px rgba(60,45,35,.1))}
+.student-work-trigger{position:absolute;inset:0;width:100%;height:100%;pointer-events:none;cursor:pointer}
+.student-work-hint{position:absolute;left:160px;top:15px;white-space:nowrap;font:400 12px/1.5 var(--sans);color:rgba(59,58,56,.8);opacity:0;translate:0 4px;transition:opacity .2s,translate .2s;pointer-events:none}
+.student-work-folder[data-state="closed"]:is(.is-hovered,.is-focused) .student-work-hint{opacity:1;translate:0 0}
+.student-work-content{position:absolute;inset:0;pointer-events:none;color:rgba(59,58,56,.92)}
+.student-work-content[hidden]{display:none}
+.student-work-item{position:absolute;opacity:0;transform-origin:center center}
+.student-work-folder[data-state="open"] .student-work-item{opacity:1}
+.student-work-title,.student-work-label{display:flex;align-items:center;justify-content:center}
+.student-work-title h2,.student-work-label h3{flex:none;font-family:var(--sans);font-weight:500;line-height:1.45;text-align:left}
+.student-work-title h2{font-size:26px}.student-work-label h3{font-size:20px}
+.student-work-photos{inset:0}
+.student-photo-position{position:absolute;display:flex;align-items:center;justify-content:center}
+.student-photo{position:relative;flex:none;overflow:hidden}
+.student-photo img{display:block;position:absolute;inset:0;width:100%;height:100%;object-fit:cover;max-width:none;pointer-events:none}
+.student-photo-shadow{box-shadow:0 4px 4px rgba(0,0,0,.25)}
+.guard-portrait img{width:208.84%;height:176.43%;object-fit:fill}
+.guard-ceremony img{left:-90.85%;top:-91.63%;width:190.14%;height:338.08%;object-fit:fill}
+.student-work-return{display:flex;align-items:center;justify-content:center}
+.student-work-close{position:relative;width:27px;height:70px;flex:none;transform:rotate(3deg);opacity:.8;pointer-events:auto;cursor:pointer;transition:opacity .2s;color:rgba(59,58,56,.92);font:500 20px/1.325 var(--sans);text-align:left}
+.student-work-close::before{content:'';position:absolute;left:-8px;right:-8px;top:-5px;bottom:-5px}
+.student-work-close img{position:absolute;left:0;top:-7.364px;width:20px;height:14.728px;transform:rotate(180deg);transition:translate .2s}
+.student-work-close span{position:absolute;left:0;top:15px;width:27px;word-break:break-all;transition:translate .2s}
+.student-work-close:hover,.student-work-close:focus-visible{opacity:1}.student-work-close:hover img{translate:-3px 0}.student-work-close:hover span{translate:-1px 0}
+.student-work-folder:not([data-state="open"]) .student-work-close{pointer-events:none}
+@media(max-width:1023px) and (orientation:landscape){.student-work-close::before{left:calc((27px - 44px / var(--scale,1)) / 2);right:calc((27px - 44px / var(--scale,1)) / 2);top:-9px;bottom:-9px}}
+@media(prefers-reduced-motion:reduce){.student-work-folder[data-state="closed"]:is(.is-hovered,.is-focused){translate:4px 0!important;scale:1}}

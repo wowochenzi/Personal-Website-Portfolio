@@ -1,0 +1,68 @@
+{
+  "siteTitle": "曹雨晨的PORTFOLIO",
+  "projects": [
+    {
+      "id": "pawtern",
+      "title": "PAWTERN 爪织",
+      "category": "服务设计",
+      "keywords": [
+        "循环设计",
+        "用户体验",
+        "共创设计"
+      ],
+      "pageCount": 18,
+      "demoType": "phone",
+      "demoSrc": "assets/media/pawtern-demo.mp4",
+      "demoSize": [544, 1184],
+      "externalUrl": ""
+    },
+    {
+      "id": "woodlab",
+      "title": "WoodLab 木玩工坊",
+      "category": "智能产品设计",
+      "keywords": [
+        "人机协同",
+        "交互设计",
+        "AI工作流"
+      ],
+      "pageCount": 10,
+      "demoType": "video",
+      "demoSrc": "assets/media/woodlab-demo.mp4",
+      "demoSize": [4438, 2160],
+      "demoCrop": [2, 2, 6, 2],
+      "externalUrl": ""
+    },
+    {
+      "id": "nuofield",
+      "title": "NuoFeild 傩场",
+      "category": "Vibe Designing",
+      "keywords": [
+        "交互设计",
+        "数字遗产",
+        "沉浸体验"
+      ],
+      "pageCount": 8,
+      "demoType": "video",
+      "demoSrc": "assets/media/nuofield-demo.mp4",
+      "demoSize": [1920, 1080],
+      "demoAudio": true,
+      "externalUrl": ""
+    },
+    {
+      "id": "beeflow",
+      "title": "追花为生",
+      "category": "信息数据可视化",
+      "keywords": [
+        "信息设计",
+        "数字叙事",
+        "人与自然"
+      ],
+      "pageCount": 8,
+      "demoType": "video",
+      "demoSrc": "assets/media/beeflow-demo.mp4",
+      "demoSize": [2552, 1240],
+      "demoCrop": [2, 2, 4, 2],
+      "externalUrl": ""
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+/* Let the image extend beneath the outer bezel; crop excess from the top. */
+.project-pawtern .phone-screen {
+ inset: 2.5% 4.4% 2.2%;
+ border-radius: 13.5% / 6.4%;
+}
+.project-pawtern .phone-screen .demo-media {
+ display: block;
+ position: absolute;
+ left: -.3%;
+ bottom: 0;
+ width: 100.6%;
+ object-position: center bottom;
+}
+
+.video-demo {
+ aspect-ratio: auto;
+ padding: 8px 8px 0;
+ border: 1px solid #b5a68f;
+ border-radius: 18px;
+ background: #eae1d1;
+ box-shadow: inset 0 0 0 1px #fff9eb99, 0 8px 24px #51433316;
+}
+.demo-viewport {
+ position: relative;
+ overflow: hidden;
+ border-radius: 11px;
+ background: #e7e3d9;
+ isolation: isolate;
+}
+.video-demo .demo-viewport > .demo-media {
+ display: block;
+ position: absolute;
+ left: var(--media-left, 0%);
+ top: var(--media-top, 0%);
+ width: var(--media-width, 100%);
+ height: var(--media-height, 100%);
+ max-width: none;
+ object-fit: contain;
+}
+.demo-viewport video {cursor: pointer}
+.demo-controls {
+ display: flex;
+ align-items: center;
+ gap: 14px;
+ padding: 4px 9px;
+ color: #675b4b;
+ font-size: 12px;
+}
+.demo-controls button {min-height: 44px;white-space: nowrap}
+.demo-toggle {min-width: 44px;letter-spacing: .12em}
+.demo-mute {min-width: 60px}
+.demo-controls button:hover {color: #344f54}
+.demo-controls input[type="range"] {
+ min-width: 0;
+ height: 44px;
+ margin: 0;
+ accent-color: #7c887c;
+ cursor: pointer;
+}
+.demo-progress {flex: 1;width: 100%}
+.demo-volume {flex: 0 0 84px;width: 84px}
+.demo-time {white-space: nowrap;font-variant-numeric: tabular-nums}
+.demo-start {
+ position: absolute;
+ inset: 50% auto auto 50%;
+ transform: translate(-50%, -50%);
+ min-height: 48px;
+ padding: 10px 20px;
+ border: 1px solid #ab9879;
+ border-radius: 8px;
+ color: #514633;
+ background: #f4ecdcf5;
+ box-shadow: 0 3px 15px #221b1530;
+ white-space: nowrap;
+ font-size: 14px;
+}
+.demo-start span {margin-left: 10px;font-size: 11px}
+.demo-start:hover {background: #fff8e9}
+.demo-controls[hidden], .demo-start[hidden] {display: none}
+@media(max-width: 700px) {
+ .video-demo {padding: 5px 5px 0;border-radius: 14px}
+ .demo-viewport {border-radius: 9px}
+ .demo-controls {gap: 6px;padding: 2px 3px;font-size: 11px}
+ .demo-volume {flex-basis: 56px;width: 56px}
+ .demo-mute {min-width: 48px}
+}

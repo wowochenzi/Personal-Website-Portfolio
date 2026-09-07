@@ -1,0 +1,4220 @@
+[
+  {
+    "id": "0:1",
+    "name": "00_GLOBAL",
+    "type": "PAGE",
+    "children": [
+      {
+        "id": "2:8",
+        "name": "00_GLOBAL_BG_PAPER",
+        "type": "FRAME",
+        "x": -5259,
+        "y": -2563,
+        "width": 3000,
+        "height": 3000,
+        "children": [
+          {
+            "id": "2:3",
+            "name": "22 1",
+            "type": "RECTANGLE",
+            "x": 0,
+            "y": 0,
+            "width": 3000,
+            "height": 3000
+          }
+        ]
+      },
+      {
+        "id": "2:9",
+        "name": "00_GLOBAL_TEXTURE_PAPER",
+        "type": "FRAME",
+        "x": -2365,
+        "y": -2563,
+        "width": 3000,
+        "height": 3000,
+        "children": [
+          {
+            "id": "2:6",
+            "name": "08 1",
+            "type": "RECTANGLE",
+            "x": 0,
+            "y": 0,
+            "width": 3000,
+            "height": 3000
+          }
+        ]
+      },
+      {
+        "id": "2:12",
+        "name": "00_GLOBAL_TEXTURE_CREAM_PAPER",
+        "type": "FRAME",
+        "x": 436,
+        "y": -2563,
+        "width": 3000,
+        "height": 3000,
+        "children": [
+          {
+            "id": "2:11",
+            "name": "38 1",
+            "type": "RECTANGLE",
+            "x": 0,
+            "y": 0,
+            "width": 3000,
+            "height": 3000
+          }
+        ]
+      },
+      {
+        "id": "2:15",
+        "name": "00_GLOBAL_TEXTURE_BLUE_PAPER",
+        "type": "FRAME",
+        "x": -4766,
+        "y": 833,
+        "width": 2205,
+        "height": 1654,
+        "children": [
+          {
+            "id": "2:13",
+            "name": "ChatGPT Image 2026年9月4日 14_52_34 1",
+            "type": "RECTANGLE",
+            "x": 0,
+            "y": 0,
+            "width": 2205,
+            "height": 1654
+          }
+        ]
+      },
+      {
+        "id": "2:17",
+        "name": "00_GLOBAL_TEXTURE_KRAFT_PAPER",
+        "type": "FRAME",
+        "x": -2064,
+        "y": 833,
+        "width": 4000,
+        "height": 4000,
+        "children": [
+          {
+            "id": "2:16",
+            "name": "07 1",
+            "type": "RECTANGLE",
+            "x": 0,
+            "y": 0,
+            "width": 4000,
+            "height": 4000
+          }
+        ]
+      },
+      {
+        "id": "2:26",
+        "name": "00_GLOBAL_PAPERCLIP_02",
+        "type": "FRAME",
+        "x": -5247,
+        "y": 3695,
+        "width": 621.6715087890625,
+        "height": 910.35205078125,
+        "children": [
+          {
+            "id": "2:22",
+            "name": "ChatGPT Image 2026年9月4日 15_15_03 3",
+            "type": "RECTANGLE",
+            "x": 621.6715087890625,
+            "y": 112.05219268798828,
+            "width": 411.0644836425781,
+            "height": 829.7212524414062
+          }
+        ]
+      },
+      {
+        "id": "2:30",
+        "name": "00_GLOBAL_LOGO_PORTFOLIO_SCRIPT",
+        "type": "FRAME",
+        "x": -6038,
+        "y": 5333,
+        "width": 1582.8731689453125,
+        "height": 679,
+        "children": [
+          {
+            "id": "2:28",
+            "name": "ChatGPT Image 2026年9月4日 14_53_34 1",
+            "type": "RECTANGLE",
+            "x": 0,
+            "y": 0,
+            "width": 1582.8731689453125,
+            "height": 678.6103515625
+          }
+        ]
+      },
+      {
+        "id": "2:48",
+        "name": "00_GLOBAL_LOGO_PORTFOLIO_PRINT",
+        "type": "FRAME",
+        "x": -1369,
+        "y": 6465,
+        "width": 1683.6634521484375,
+        "height": 380,
+        "children": [
+          {
+            "id": "2:49",
+            "name": "Portfolio",
+            "type": "TEXT",
+            "x": 0,
+            "y": 0,
+            "width": 1683.6634521484375,
+            "height": 380,
+            "text": "Portfolio",
+            "fontSize": 413.86138916015625,
+            "fontName": {
+              "family": "GeoSlab703 Md BT",
+              "style": "Bold"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2:36",
+        "name": "00_GLOBAL_DECOR_VIBECODING",
+        "type": "FRAME",
+        "x": -5848,
+        "y": 7412,
+        "width": 1211,
+        "height": 108,
+        "children": [
+          {
+            "id": "2:34",
+            "name": "ChatGPT Image 2026年9月4日 16_47_35 1",
+            "type": "RECTANGLE",
+            "x": 0,
+            "y": 0,
+            "width": 1211,
+            "height": 108
+          }
+        ]
+      },
+      {
+        "id": "2:54",
+        "name": "00_GLOBAL_PAPERCLIP_01",
+        "type": "FRAME",
+        "x": -4455,
+        "y": 4030,
+        "width": 685.6952514648438,
+        "height": 575.031005859375,
+        "children": [
+          {
+            "id": "2:55",
+            "name": "ChatGPT Image 2026年9月4日 15_15_03 2",
+            "type": "RECTANGLE",
+            "x": 685.6953125,
+            "y": 161.03982543945312,
+            "width": 590.7760620117188,
+            "height": 430.2860412597656
+          }
+        ]
+      },
+      {
+        "id": "2:56",
+        "name": "00_GLOBAL_PAPERCLIP_03",
+        "type": "FRAME",
+        "x": -5924,
+        "y": 3814.84375,
+        "width": 461.5976867675781,
+        "height": 675.946044921875,
+        "children": [
+          {
+            "id": "2:57",
+            "name": "ChatGPT Image 2026年9月4日 15_15_03 1",
+            "type": "RECTANGLE",
+            "x": 461.59820556640625,
+            "y": 83.19959259033203,
+            "width": 305.2197570800781,
+            "height": 616.0768432617188
+          }
+        ]
+      },
+      {
+        "id": "2:42",
+        "name": "Frame 2",
+        "type": "FRAME",
+        "x": -3728,
+        "y": 5234,
+        "width": 2319,
+        "height": 1765,
+        "children": [
+          {
+            "id": "2:43",
+            "name": "Frame 3",
+            "type": "FRAME",
+            "x": 59,
+            "y": 99,
+            "width": 414,
+            "height": 375,
+            "children": []
+          },
+          {
+            "id": "2:44",
+            "name": "Frame 4",
+            "type": "FRAME",
+            "x": 516,
+            "y": 99,
+            "width": 414,
+            "height": 375,
+            "children": []
+          },
+          {
+            "id": "2:46",
+            "name": "Frame 5",
+            "type": "FRAME",
+            "x": 973,
+            "y": 99,
+            "width": 414,
+            "height": 375,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1:2",
+    "name": "01_COVER",
+    "type": "PAGE",
+    "children": [
+      {
+        "id": "2:62",
+        "name": "01_COVER_REFERENCE_FULL",
+        "type": "FRAME",
+        "x": 189,
+        "y": -1894,
+        "width": 1568,
+        "height": 900,
+        "children": [
+          {
+            "id": "2:63",
+            "name": "22 1",
+            "type": "RECTANGLE",
+            "x": 1600,
+            "y": -300,
+            "width": 1630,
+            "height": 1630
+          },
+          {
+            "id": "2:64",
+            "name": "ChatGPT Image 2026年9月4日 14_52_34 2",
+            "type": "RECTANGLE",
+            "x": 128,
+            "y": 10,
+            "width": 1347,
+            "height": 1010
+          },
+          {
+            "id": "2:65",
+            "name": "Frame 6",
+            "type": "FRAME",
+            "x": 692,
+            "y": 716,
+            "width": 219,
+            "height": 35,
+            "children": [
+              {
+                "id": "2:66",
+                "name": "点击打开档案",
+                "type": "TEXT",
+                "x": 13,
+                "y": 0,
+                "width": 159,
+                "height": 35,
+                "text": "点击打开档案",
+                "fontSize": 24,
+                "fontName": {
+                  "family": "Glow Sans SC",
+                  "style": "Extended Light"
+                }
+              },
+              {
+                "id": "2:67",
+                "name": "Arrow 1",
+                "type": "VECTOR",
+                "x": 182,
+                "y": 17.5,
+                "width": 24,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "id": "2:68",
+            "name": "00_GLOBAL_PAPERCLIP_01",
+            "type": "FRAME",
+            "x": 525,
+            "y": 43,
+            "width": 211,
+            "height": 176.94674682617188,
+            "children": [
+              {
+                "id": "2:69",
+                "name": "ChatGPT Image 2026年9月4日 15_15_03 2",
+                "type": "RECTANGLE",
+                "x": 210.99998474121094,
+                "y": 49.5545768737793,
+                "width": 181.79176330566406,
+                "height": 132.40628051757812
+              }
+            ]
+          },
+          {
+            "id": "2:70",
+            "name": "00_GLOBAL_PAPERCLIP_03",
+            "type": "FRAME",
+            "x": 128,
+            "y": 647,
+            "width": 142.04139709472656,
+            "height": 208,
+            "children": [
+              {
+                "id": "2:71",
+                "name": "ChatGPT Image 2026年9月4日 15_15_03 1",
+                "type": "RECTANGLE",
+                "x": 142.04136657714844,
+                "y": 25.601924896240234,
+                "width": 93.9212646484375,
+                "height": 189.5772247314453
+              }
+            ]
+          },
+          {
+            "id": "2:72",
+            "name": "00_GLOBAL_PAPERCLIP_02",
+            "type": "FRAME",
+            "x": 1497.45703125,
+            "y": 265,
+            "width": 117.4572982788086,
+            "height": 172,
+            "children": [
+              {
+                "id": "2:73",
+                "name": "ChatGPT Image 2026年9月4日 15_15_03 3",
+                "type": "RECTANGLE",
+                "x": 117.4571762084961,
+                "y": 21.170671463012695,
+                "width": 77.66565704345703,
+                "height": 156.76576232910156
+              }
+            ]
+          },
+          {
+            "id": "2:74",
+            "name": "00_GLOBAL_LOGO_PORTFOLIO_PRINT",
+            "type": "FRAME",
+            "x": 71,
+            "y": 220,
+            "width": 1426,
+            "height": 439,
+            "children": [
+              {
+                "id": "2:75",
+                "name": "Portfolio",
+                "type": "TEXT",
+                "x": 0,
+                "y": 0,
+                "width": 1426,
+                "height": 439,
+                "text": "Portfolio",
+                "fontSize": 366.0111389160156,
+                "fontName": {
+                  "family": "GeoSlab703 Md BT",
+                  "style": "Bold"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3:82",
+        "name": "01_COVER_FOLDER_LAYER_MIDDLE",
+        "type": "FRAME",
+        "x": 394,
+        "y": -390,
+        "width": 609,
+        "height": 457,
+        "children": [
+          {
+            "id": "3:77",
+            "name": "ChatGPT Image 2026年9月5日 18_43_09 (2) 1",
+            "type": "RECTANGLE",
+            "x": 0,
+            "y": 0,
+            "width": 609,
+            "height": 457
+          }
+        ]
+      },
+      {
+        "id": "3:81",
+        "name": "01_COVER_FOLDER_BACK",
+        "type": "FRAME",
+        "x": 1020,
+        "y": -390,
+        "width": 609,
+        "height": 457,
+        "children": [
+          {
+            "id": "3:78",
+            "name": "ChatGPT Image 2026年9月5日 18_43_09 (3) 1",
+            "type": "RECTANGLE",
+            "x": 0,
+            "y": 0,
+            "width": 609,
+            "height": 457
+          }
+        ]
+      },
+      {
+        "id": "3:83",
+        "name": "01_COVER_FOLDER_FRONT",
+        "type": "FRAME",
+        "x": 394,
+        "y": 192,
+        "width": 609,
+        "height": 456,
+        "children": [
+          {
+            "id": "3:80",
+            "name": "01_COVER_FOLDER_BACK",
+            "type": "FRAME",
+            "x": 0,
+            "y": 0,
+            "width": 609,
+            "height": 456,
+            "children": [
+              {
+                "id": "3:79",
+                "name": "ChatGPT Image 2026年9月5日 18_43_09 (1) 1",
+                "type": "RECTANGLE",
+                "x": 0,
+                "y": 0,
+                "width": 609,
+                "height": 456
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3:84",
+        "name": "01_COVER_FOLDER_INNER_PAPER",
+        "type": "FRAME",
+        "x": 1092,
+        "y": 192,
+        "width": 730,
+        "height": 730,
+        "children": [
+          {
+            "id": "3:85",
+            "name": "38 1",
+            "type": "RECTANGLE",
+            "x": 0,
+            "y": 0,
+            "width": 730,
+            "height": 730
+          }
+        ]
+      },
+      {
+        "id": "3:87",
+        "name": "00_GLOBAL_LOGO_PORTFOLIO_SCRIPT",
+        "type": "FRAME",
+        "x": 330,
+        "y": -1689,
+        "width": 193,
+        "height": 82.79058837890625,
+        "children": [
+          {
+            "id": "3:88",
+            "name": "ChatGPT Image 2026年9月4日 14_53_34 1",
+            "type": "RECTANGLE",
+            "x": 0,
+            "y": 0,
+            "width": 192.99998474121094,
+            "height": 82.74307250976562
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6:43",
+    "name": "02_FOLDER_NAV",
+    "type": "PAGE",
+    "children": [
+      {
+        "id": "6:44",
+        "name": "02_FOLDER_NAV_REFERENCE_DEFAULT",
+        "type": "FRAME",
+        "x": 0,
+        "y": 0,
+        "width": 1568,
+        "height": 900,
+        "children": [
+          {
+            "id": "6:45",
+            "name": "22 1",
+            "type": "RECTANGLE",
+            "x": 1600,
+            "y": -300,
+            "width": 1630,
+            "height": 1630
+          },
+          {
+            "id": "6:4237",
+            "name": "Frame 14",
+            "type": "FRAME",
+            "x": 784.590576171875,
+            "y": 125,
+            "width": 784.6781005859375,
+            "height": 881.90185546875,
+            "children": [
+              {
+                "id": "6:46",
+                "name": "02_FOLDER_NAV_FOLDER_CONTENT",
+                "type": "FRAME",
+                "x": 0,
+                "y": 0,
+                "width": 784.6781005859375,
+                "height": 881.90185546875,
+                "children": [
+                  {
+                    "id": "6:47",
+                    "name": "ChatGPT Image 2026年9月5日 18_43_09 (3) 2",
+                    "type": "RECTANGLE",
+                    "x": 0,
+                    "y": 0,
+                    "width": 827.123291015625,
+                    "height": 620.3424682617188
+                  }
+                ]
+              },
+              {
+                "id": "6:48",
+                "name": "00_GLOBAL_LOGO_PORTFOLIO_PRINT",
+                "type": "FRAME",
+                "x": 265.409423828125,
+                "y": 206,
+                "width": 481,
+                "height": 153,
+                "children": [
+                  {
+                    "id": "6:49",
+                    "name": "Content",
+                    "type": "TEXT",
+                    "x": 0,
+                    "y": 0,
+                    "width": 481,
+                    "height": 153,
+                    "text": "Content",
+                    "fontSize": 128,
+                    "fontName": {
+                      "family": "GeoSlab703 Md BT",
+                      "style": "Bold"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "6:4236",
+            "name": "Frame 13",
+            "type": "FRAME",
+            "x": 366.6044921875,
+            "y": 125,
+            "width": 894.7344970703125,
+            "height": 881.90185546875,
+            "children": [
+              {
+                "id": "6:50",
+                "name": "02_FOLDER_NAV_FOLDER_ABOUT",
+                "type": "FRAME",
+                "x": 0,
+                "y": 0,
+                "width": 784.6781005859375,
+                "height": 881.90185546875,
+                "children": [
+                  {
+                    "id": "6:51",
+                    "name": "ChatGPT Image 2026年9月5日 18_43_09 (2) 2",
+                    "type": "RECTANGLE",
+                    "x": 0,
+                    "y": 0,
+                    "width": 827.123291015625,
+                    "height": 620.3424682617188
+                  }
+                ]
+              },
+              {
+                "id": "6:52",
+                "name": "00_GLOBAL_LOGO_PORTFOLIO_PRINT",
+                "type": "FRAME",
+                "x": 346.3955078125,
+                "y": 347,
+                "width": 578,
+                "height": 153,
+                "children": [
+                  {
+                    "id": "6:53",
+                    "name": "About Me",
+                    "type": "TEXT",
+                    "x": 0,
+                    "y": 0,
+                    "width": 578,
+                    "height": 153,
+                    "text": "About Me",
+                    "fontSize": 128,
+                    "fontName": {
+                      "family": "GeoSlab703 Md BT",
+                      "style": "Bold"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "6:56",
+            "name": "Frame 7",
+            "type": "FRAME",
+            "x": 641,
+            "y": 108,
+            "width": 288,
+            "height": 35,
+            "children": [
+              {
+                "id": "6:57",
+                "name": "CHOOSE ONE PAGE",
+                "type": "TEXT",
+                "x": 13,
+                "y": 0,
+                "width": 241,
+                "height": 35,
+                "text": "CHOOSE ONE PAGE",
+                "fontSize": 24,
+                "fontName": {
+                  "family": "Glow Sans SC",
+                  "style": "Extended Light"
+                }
+              },
+              {
+                "id": "6:58",
+                "name": "Arrow 1",
+                "type": "VECTOR",
+                "x": 275,
+                "y": 5.5,
+                "width": 24,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "id": "6:4235",
+            "name": "Frame 12",
+            "type": "FRAME",
+            "x": 0,
+            "y": 126.0633544921875,
+            "width": 865.7967529296875,
+            "height": 880.9367065429688,
+            "children": [
+              {
+                "id": "6:54",
+                "name": "02_FOLDER_NAV_FOLDER_HOME",
+                "type": "FRAME",
+                "x": 0,
+                "y": 0,
+                "width": 783.8193359375,
+                "height": 880.9367065429688,
+                "children": [
+                  {
+                    "id": "6:55",
+                    "name": "ChatGPT Image 2026年9月5日 18_43_09 (1) 1",
+                    "type": "RECTANGLE",
+                    "x": 0,
+                    "y": 0,
+                    "width": 826.2180786132812,
+                    "height": 619.66357421875
+                  }
+                ]
+              },
+              {
+                "id": "6:59",
+                "name": "00_GLOBAL_LOGO_PORTFOLIO_PRINT",
+                "type": "FRAME",
+                "x": 215,
+                "y": 453.9366455078125,
+                "width": 686,
+                "height": 153,
+                "children": [
+                  {
+                    "id": "6:60",
+                    "name": "Home Page",
+                    "type": "TEXT",
+                    "x": 0,
+                    "y": 0,
+                    "width": 686,
+                    "height": 153,
+                    "text": "Home Page",
+                    "fontSize": 128,
+                    "fontName": {
+                      "family": "GeoSlab703 Md BT",
+                      "style": "Bold"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6:123",
+        "name": "02_FOLDER_NAV_FOLDER_CONTENT",
+        "type": "FRAME",
+        "x": 2824,
+        "y": 2172,
+        "width": 784.6781005859375,
+        "height": 881.90185546875,
+        "children": [
+          {
+            "id": "6:124",
+            "name": "ChatGPT Image 2026年9月5日 18_43_09 (3) 2",
+            "type": "RECTANGLE",
+            "x": 0,
+            "y": 0,
+            "width": 827.123291015625,
+            "height": 620.3424682617188
+          }
+        ]
+      },
+      {
+        "id": "6:125",
+        "name": "02_FOLDER_NAV_FOLDER_ABOUT",
+        "type": "FRAME",
+        "x": 1544,
+        "y": 2173,
+        "width": 784.6781005859375,
+        "height": 881.90185546875,
+        "children": [
+          {
+            "id": "6:126",
+            "name": "ChatGPT Image 2026年9月5日 18_43_09 (2) 2",
+            "type": "RECTANGLE",
+            "x": 0,
+            "y": 0,
+            "width": 827.123291015625,
+            "height": 620.3424682617188
+          }
+        ]
+      },
+      {
+        "id": "6:4246",
+        "name": "00_GLOBAL_LOGO_PORTFOLIO_PRINT",
+        "type": "FRAME",
+        "x": 2628,
+        "y": 3868,
+        "width": 578,
+        "height": 153,
+        "children": [
+          {
+            "id": "6:4247",
+            "name": "About Me",
+            "type": "TEXT",
+            "x": 0,
+            "y": 0,
+            "width": 578,
+            "height": 153,
+            "text": "About Me",
+            "fontSize": 128,
+            "fontName": {
+              "family": "GeoSlab703 Md BT",
+              "style": "Bold"
+            }
+          }
+        ]
+      },
+      {
+        "id": "6:4248",
+        "name": "00_GLOBAL_LOGO_PORTFOLIO_PRINT",
+        "type": "FRAME",
+        "x": 1708,
+        "y": 3868,
+        "width": 481,
+        "height": 153,
+        "children": [
+          {
+            "id": "6:4249",
+            "name": "Content",
+            "type": "TEXT",
+            "x": 0,
+            "y": 0,
+            "width": 481,
+            "height": 153,
+            "text": "Content",
+            "fontSize": 128,
+            "fontName": {
+              "family": "GeoSlab703 Md BT",
+              "style": "Bold"
+            }
+          }
+        ]
+      },
+      {
+        "id": "6:127",
+        "name": "02_FOLDER_NAV_FOLDER_HOME",
+        "type": "FRAME",
+        "x": 265,
+        "y": 2173.0634765625,
+        "width": 783.8193359375,
+        "height": 880.9367065429688,
+        "children": [
+          {
+            "id": "6:128",
+            "name": "ChatGPT Image 2026年9月5日 18_43_09 (1) 1",
+            "type": "RECTANGLE",
+            "x": 0,
+            "y": 0,
+            "width": 826.2180786132812,
+            "height": 619.66357421875
+          }
+        ]
+      },
+      {
+        "id": "6:4250",
+        "name": "00_GLOBAL_LOGO_PORTFOLIO_PRINT",
+        "type": "FRAME",
+        "x": 652.1741943359375,
+        "y": 3790.05810546875,
+        "width": 686,
+        "height": 153,
+        "children": [
+          {
+            "id": "6:4251",
+            "name": "Home Page",
+            "type": "TEXT",
+            "x": 0,
+            "y": 0,
+            "width": 686,
+            "height": 153,
+            "text": "Home Page",
+            "fontSize": 128,
+            "fontName": {
+              "family": "GeoSlab703 Md BT",
+              "style": "Bold"
+            }
+          }
+        ]
+      },
+      {
+        "id": "6:98",
+        "name": "02_FOLDER_NAV_REFERENCE_HOVER_CONTENT",
+        "type": "FRAME",
+        "x": 4824,
+        "y": 0,
+        "width": 1568,
+        "height": 900,
+        "children": [
+          {
+            "id": "6:99",
+            "name": "22 1",
+            "type": "RECTANGLE",
+            "x": 1600,
+            "y": -300,
+            "width": 1630,
+            "height": 1630
+          },
+          {
+            "id": "6:4245",
+            "name": "Frame 22",
+            "type": "FRAME",
+            "x": 784.5908203125,
+            "y": 21,
+            "width": 784.6781005859375,
+            "height": 881.90185546875,
+            "children": [
+              {
+                "id": "6:100",
+                "name": "Frame 10",
+                "type": "FRAME",
+                "x": 0,
+                "y": 0,
+                "width": 784.6781005859375,
+                "height": 881.90185546875,
+                "children": [
+                  {
+                    "id": "6:101",
+                    "name": "ChatGPT Image 2026年9月5日 18_43_09 (3) 2",
+                    "type": "RECTANGLE",
+                    "x": 0,
+                    "y": 0,
+                    "width": 827.123291015625,
+                    "height": 620.3424682617188
+                  }
+                ]
+              },
+              {
+                "id": "6:102",
+                "name": "00_GLOBAL_LOGO_PORTFOLIO_PRINT",
+                "type": "FRAME",
+                "x": 265.4091796875,
+                "y": 206,
+                "width": 481,
+                "height": 153,
+                "children": [
+                  {
+                    "id": "6:103",
+                    "name": "Content",
+                    "type": "TEXT",
+                    "x": 0,
+                    "y": 0,
+                    "width": 481,
+                    "height": 153,
+                    "text": "Content",
+                    "fontSize": 128,
+                    "fontName": {
+                      "family": "GeoSlab703 Md BT",
+                      "style": "Bold"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "6:4244",
+            "name": "Frame 21",
+            "type": "FRAME",
+            "x": 366.6044921875,
+            "y": 125,
+            "width": 894.7344970703125,
+            "height": 881.90185546875,
+            "children": [
+              {
+                "id": "6:104",
+                "name": "Frame 9",
+                "type": "FRAME",
+                "x": 0,
+                "y": 0,
+                "width": 784.6781005859375,
+                "height": 881.90185546875,
+                "children": [
+                  {
+                    "id": "6:105",
+                    "name": "ChatGPT Image 2026年9月5日 18_43_09 (2) 2",
+                    "type": "RECTANGLE",
+                    "x": 0,
+                    "y": 0,
+                    "width": 827.123291015625,
+                    "height": 620.3424682617188
+                  }
+                ]
+              },
+              {
+                "id": "6:106",
+                "name": "00_GLOBAL_LOGO_PORTFOLIO_PRINT",
+                "type": "FRAME",
+                "x": 346.3955078125,
+                "y": 347,
+                "width": 578,
+                "height": 153,
+                "children": [
+                  {
+                    "id": "6:107",
+                    "name": "About Me",
+                    "type": "TEXT",
+                    "x": 0,
+                    "y": 0,
+                    "width": 578,
+                    "height": 153,
+                    "text": "About Me",
+                    "fontSize": 128,
+                    "fontName": {
+                      "family": "GeoSlab703 Md BT",
+                      "style": "Bold"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "6:110",
+            "name": "Frame 7",
+            "type": "FRAME",
+            "x": 641,
+            "y": 108,
+            "width": 288,
+            "height": 35,
+            "children": [
+              {
+                "id": "6:111",
+                "name": "CHOOSE ONE PAGE",
+                "type": "TEXT",
+                "x": 13,
+                "y": 0,
+                "width": 241,
+                "height": 35,
+                "text": "CHOOSE ONE PAGE",
+                "fontSize": 24,
+                "fontName": {
+                  "family": "Glow Sans SC",
+                  "style": "Extended Light"
+                }
+              },
+              {
+                "id": "6:112",
+                "name": "Arrow 1",
+                "type": "VECTOR",
+                "x": 275,
+                "y": 5.5,
+                "width": 24,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "id": "6:4243",
+            "name": "Frame 20",
+            "type": "FRAME",
+            "x": 0,
+            "y": 126.0633544921875,
+            "width": 865.7967529296875,
+            "height": 880.9367065429688,
+            "children": [
+              {
+                "id": "6:108",
+                "name": "Frame 8",
+                "type": "FRAME",
+                "x": 0,
+                "y": 0,
+                "width": 783.8193359375,
+                "height": 880.9367065429688,
+                "children": [
+                  {
+                    "id": "6:109",
+                    "name": "ChatGPT Image 2026年9月5日 18_43_09 (1) 1",
+                    "type": "RECTANGLE",
+                    "x": 0,
+                    "y": 0,
+                    "width": 826.2180786132812,
+                    "height": 619.66357421875
+                  }
+                ]
+              },
+              {
+                "id": "6:113",
+                "name": "00_GLOBAL_LOGO_PORTFOLIO_PRINT",
+                "type": "FRAME",
+                "x": 215,
+                "y": 453.9366455078125,
+                "width": 686,
+                "height": 153,
+                "children": [
+                  {
+                    "id": "6:114",
+                    "name": "Home Page",
+                    "type": "TEXT",
+                    "x": 0,
+                    "y": 0,
+                    "width": 686,
+                    "height": 153,
+                    "text": "Home Page",
+                    "fontSize": 128,
+                    "fontName": {
+                      "family": "GeoSlab703 Md BT",
+                      "style": "Bold"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6:80",
+        "name": "02_FOLDER_NAV_REFERENCE_HOVER_ABOUT",
+        "type": "FRAME",
+        "x": 3216,
+        "y": 0,
+        "width": 1568,
+        "height": 900,
+        "children": [
+          {
+            "id": "6:81",
+            "name": "22 1",
+            "type": "RECTANGLE",
+            "x": 1600,
+            "y": -300,
+            "width": 1630,
+            "height": 1630
+          },
+          {
+            "id": "6:4242",
+            "name": "Frame 19",
+            "type": "FRAME",
+            "x": 784.590576171875,
+            "y": 125,
+            "width": 784.6781005859375,
+            "height": 881.90185546875,
+            "children": [
+              {
+                "id": "6:82",
+                "name": "Frame 10",
+                "type": "FRAME",
+                "x": 0,
+                "y": 0,
+                "width": 784.6781005859375,
+                "height": 881.90185546875,
+                "children": [
+                  {
+                    "id": "6:83",
+                    "name": "ChatGPT Image 2026年9月5日 18_43_09 (3) 2",
+                    "type": "RECTANGLE",
+                    "x": 0,
+                    "y": 0,
+                    "width": 827.123291015625,
+                    "height": 620.3424682617188
+                  }
+                ]
+              },
+              {
+                "id": "6:84",
+                "name": "00_GLOBAL_LOGO_PORTFOLIO_PRINT",
+                "type": "FRAME",
+                "x": 265.409423828125,
+                "y": 206,
+                "width": 481,
+                "height": 153,
+                "children": [
+                  {
+                    "id": "6:85",
+                    "name": "Content",
+                    "type": "TEXT",
+                    "x": 0,
+                    "y": 0,
+                    "width": 481,
+                    "height": 153,
+                    "text": "Content",
+                    "fontSize": 128,
+                    "fontName": {
+                      "family": "GeoSlab703 Md BT",
+                      "style": "Bold"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "6:4241",
+            "name": "Frame 18",
+            "type": "FRAME",
+            "x": 366.6044921875,
+            "y": 1,
+            "width": 894.7344970703125,
+            "height": 881.90185546875,
+            "children": [
+              {
+                "id": "6:86",
+                "name": "Frame 9",
+                "type": "FRAME",
+                "x": 0,
+                "y": 0,
+                "width": 784.6781005859375,
+                "height": 881.90185546875,
+                "children": [
+                  {
+                    "id": "6:87",
+                    "name": "ChatGPT Image 2026年9月5日 18_43_09 (2) 2",
+                    "type": "RECTANGLE",
+                    "x": 0,
+                    "y": 0,
+                    "width": 827.123291015625,
+                    "height": 620.3424682617188
+                  }
+                ]
+              },
+              {
+                "id": "6:88",
+                "name": "00_GLOBAL_LOGO_PORTFOLIO_PRINT",
+                "type": "FRAME",
+                "x": 346.3955078125,
+                "y": 347,
+                "width": 578,
+                "height": 153,
+                "children": [
+                  {
+                    "id": "6:89",
+                    "name": "About Me",
+                    "type": "TEXT",
+                    "x": 0,
+                    "y": 0,
+                    "width": 578,
+                    "height": 153,
+                    "text": "About Me",
+                    "fontSize": 128,
+                    "fontName": {
+                      "family": "GeoSlab703 Md BT",
+                      "style": "Bold"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "6:92",
+            "name": "Frame 7",
+            "type": "FRAME",
+            "x": 641,
+            "y": 108,
+            "width": 288,
+            "height": 35,
+            "children": [
+              {
+                "id": "6:93",
+                "name": "CHOOSE ONE PAGE",
+                "type": "TEXT",
+                "x": 13,
+                "y": 0,
+                "width": 241,
+                "height": 35,
+                "text": "CHOOSE ONE PAGE",
+                "fontSize": 24,
+                "fontName": {
+                  "family": "Glow Sans SC",
+                  "style": "Extended Light"
+                }
+              },
+              {
+                "id": "6:94",
+                "name": "Arrow 1",
+                "type": "VECTOR",
+                "x": 275,
+                "y": 5.5,
+                "width": 24,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "id": "6:4240",
+            "name": "Frame 17",
+            "type": "FRAME",
+            "x": 0,
+            "y": 126.0633544921875,
+            "width": 865.7967529296875,
+            "height": 880.9367065429688,
+            "children": [
+              {
+                "id": "6:90",
+                "name": "Frame 8",
+                "type": "FRAME",
+                "x": 0,
+                "y": 0,
+                "width": 783.8193359375,
+                "height": 880.9367065429688,
+                "children": [
+                  {
+                    "id": "6:91",
+                    "name": "ChatGPT Image 2026年9月5日 18_43_09 (1) 1",
+                    "type": "RECTANGLE",
+                    "x": 0,
+                    "y": 0,
+                    "width": 826.2180786132812,
+                    "height": 619.66357421875
+                  }
+                ]
+              },
+              {
+                "id": "6:95",
+                "name": "00_GLOBAL_LOGO_PORTFOLIO_PRINT",
+                "type": "FRAME",
+                "x": 215,
+                "y": 453.9366455078125,
+                "width": 686,
+                "height": 153,
+                "children": [
+                  {
+                    "id": "6:96",
+                    "name": "Home Page",
+                    "type": "TEXT",
+                    "x": 0,
+                    "y": 0,
+                    "width": 686,
+                    "height": 153,
+                    "text": "Home Page",
+                    "fontSize": 128,
+                    "fontName": {
+                      "family": "GeoSlab703 Md BT",
+                      "style": "Bold"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6:62",
+        "name": "02_FOLDER_NAV_REFERENCE_HOVER_HOME",
+        "type": "FRAME",
+        "x": 1608,
+        "y": 0,
+        "width": 1568,
+        "height": 900,
+        "children": [
+          {
+            "id": "6:63",
+            "name": "22 1",
+            "type": "RECTANGLE",
+            "x": 1600,
+            "y": -300,
+            "width": 1630,
+            "height": 1630
+          },
+          {
+            "id": "6:4239",
+            "name": "Frame 16",
+            "type": "FRAME",
+            "x": 784.590576171875,
+            "y": 125,
+            "width": 784.6781005859375,
+            "height": 881.90185546875,
+            "children": [
+              {
+                "id": "6:64",
+                "name": "Frame 10",
+                "type": "FRAME",
+                "x": 0,
+                "y": 0,
+                "width": 784.6781005859375,
+                "height": 881.90185546875,
+                "children": [
+                  {
+                    "id": "6:65",
+                    "name": "ChatGPT Image 2026年9月5日 18_43_09 (3) 2",
+                    "type": "RECTANGLE",
+                    "x": 0,
+                    "y": 0,
+                    "width": 827.123291015625,
+                    "height": 620.3424682617188
+                  }
+                ]
+              },
+              {
+                "id": "6:66",
+                "name": "00_GLOBAL_LOGO_PORTFOLIO_PRINT",
+                "type": "FRAME",
+                "x": 265.409423828125,
+                "y": 206,
+                "width": 481,
+                "height": 153,
+                "children": [
+                  {
+                    "id": "6:67",
+                    "name": "Content",
+                    "type": "TEXT",
+                    "x": 0,
+                    "y": 0,
+                    "width": 481,
+                    "height": 153,
+                    "text": "Content",
+                    "fontSize": 128,
+                    "fontName": {
+                      "family": "GeoSlab703 Md BT",
+                      "style": "Bold"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "6:4238",
+            "name": "Frame 15",
+            "type": "FRAME",
+            "x": 366.6044921875,
+            "y": 125,
+            "width": 894.7344970703125,
+            "height": 881.90185546875,
+            "children": [
+              {
+                "id": "6:68",
+                "name": "Frame 9",
+                "type": "FRAME",
+                "x": 0,
+                "y": 0,
+                "width": 784.6781005859375,
+                "height": 881.90185546875,
+                "children": [
+                  {
+                    "id": "6:69",
+                    "name": "ChatGPT Image 2026年9月5日 18_43_09 (2) 2",
+                    "type": "RECTANGLE",
+                    "x": 0,
+                    "y": 0,
+                    "width": 827.123291015625,
+                    "height": 620.3424682617188
+                  }
+                ]
+              },
+              {
+                "id": "6:70",
+                "name": "00_GLOBAL_LOGO_PORTFOLIO_PRINT",
+                "type": "FRAME",
+                "x": 346.3955078125,
+                "y": 347,
+                "width": 578,
+                "height": 153,
+                "children": [
+                  {
+                    "id": "6:71",
+                    "name": "About Me",
+                    "type": "TEXT",
+                    "x": 0,
+                    "y": 0,
+                    "width": 578,
+                    "height": 153,
+                    "text": "About Me",
+                    "fontSize": 128,
+                    "fontName": {
+                      "family": "GeoSlab703 Md BT",
+                      "style": "Bold"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "6:74",
+            "name": "Frame 7",
+            "type": "FRAME",
+            "x": 641,
+            "y": 108,
+            "width": 288,
+            "height": 35,
+            "children": [
+              {
+                "id": "6:75",
+                "name": "CHOOSE ONE PAGE",
+                "type": "TEXT",
+                "x": 13,
+                "y": 0,
+                "width": 241,
+                "height": 35,
+                "text": "CHOOSE ONE PAGE",
+                "fontSize": 24,
+                "fontName": {
+                  "family": "Glow Sans SC",
+                  "style": "Extended Light"
+                }
+              },
+              {
+                "id": "6:76",
+                "name": "Arrow 1",
+                "type": "VECTOR",
+                "x": 275,
+                "y": 5.5,
+                "width": 24,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "id": "6:4234",
+            "name": "Frame 11",
+            "type": "FRAME",
+            "x": 0,
+            "y": 21,
+            "width": 865.7967529296875,
+            "height": 880.9367065429688,
+            "children": [
+              {
+                "id": "6:72",
+                "name": "Frame 8",
+                "type": "FRAME",
+                "x": 0,
+                "y": 0,
+                "width": 783.8193359375,
+                "height": 880.9367065429688,
+                "children": [
+                  {
+                    "id": "6:73",
+                    "name": "ChatGPT Image 2026年9月5日 18_43_09 (1) 1",
+                    "type": "RECTANGLE",
+                    "x": 0,
+                    "y": 0,
+                    "width": 826.2180786132812,
+                    "height": 619.66357421875
+                  }
+                ]
+              },
+              {
+                "id": "6:77",
+                "name": "00_GLOBAL_LOGO_PORTFOLIO_PRINT",
+                "type": "FRAME",
+                "x": 215,
+                "y": 454,
+                "width": 686,
+                "height": 153,
+                "children": [
+                  {
+                    "id": "6:78",
+                    "name": "Home Page",
+                    "type": "TEXT",
+                    "x": 0,
+                    "y": 0,
+                    "width": 686,
+                    "height": 153,
+                    "text": "Home Page",
+                    "fontSize": 128,
+                    "fontName": {
+                      "family": "GeoSlab703 Md BT",
+                      "style": "Bold"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3:90",
+    "name": "03_ABOUT",
+    "type": "PAGE",
+    "children": [
+      {
+        "id": "3:91",
+        "name": "aboutme-纸质作品集页面的内容",
+        "type": "FRAME",
+        "x": 0,
+        "y": 135,
+        "width": 2434,
+        "height": 1080
+      },
+      {
+        "id": "3:156",
+        "name": "03_ABOUT_REFERENCE_FULL",
+        "type": "FRAME",
+        "x": 0,
+        "y": -1047,
+        "width": 1568,
+        "height": 900,
+        "children": [
+          {
+            "id": "3:157",
+            "name": "22 1",
+            "type": "RECTANGLE",
+            "x": 1777,
+            "y": -369,
+            "width": 1818,
+            "height": 1818
+          },
+          {
+            "id": "3:215",
+            "name": "02_ABOUT_BLUE_CARD_HOLE_EDGE",
+            "type": "FRAME",
+            "x": 155,
+            "y": 27,
+            "width": 1332,
+            "height": 860
+          },
+          {
+            "id": "3:214",
+            "name": "02_ABOUT_FOLDER_KRAFT_BACK",
+            "type": "FRAME",
+            "x": -36,
+            "y": 108,
+            "width": 680.37646484375,
+            "height": 699
+          },
+          {
+            "id": "3:213",
+            "name": "02_ABOUT_BLUE_CARD_BG",
+            "type": "FRAME",
+            "x": 8.02878475189209,
+            "y": 150.41839599609375,
+            "width": 600.024169921875,
+            "height": 602.0128784179688
+          },
+          {
+            "id": "3:216",
+            "name": "02_ABOUT_PROFILE_PHOTO",
+            "type": "FRAME",
+            "x": 133.7564697265625,
+            "y": 206.3204345703125,
+            "width": 214.93186950683594,
+            "height": 243.66036987304688
+          },
+          {
+            "id": "3:174",
+            "name": "曹雨晨",
+            "type": "TEXT",
+            "x": 372.6445617675781,
+            "y": 198.63922119140625,
+            "width": 120.44475555419922,
+            "height": 44.33190155029297,
+            "text": "曹雨晨",
+            "fontSize": 30.72515296936035
+          },
+          {
+            "id": "3:175",
+            "name": "浙江大学",
+            "type": "TEXT",
+            "x": 372.6445617675781,
+            "y": 243.190673828125,
+            "width": 120.44475555419922,
+            "height": 44.33190155029297,
+            "text": "浙江大学",
+            "fontSize": 24.580123901367188
+          },
+          {
+            "id": "3:176",
+            "name": "艺术与科技",
+            "type": "TEXT",
+            "x": 133.7564697265625,
+            "y": 488.991943359375,
+            "width": 135.95880126953125,
+            "height": 26.11638069152832,
+            "text": "艺术与科技",
+            "fontSize": 18.43509292602539
+          },
+          {
+            "id": "3:177",
+            "name": "政治面貌",
+            "type": "TEXT",
+            "x": 378.7895812988281,
+            "y": 488.991943359375,
+            "width": 135.95880126953125,
+            "height": 26.11638069152832,
+            "text": "政治面貌",
+            "fontSize": 18.43509292602539
+          },
+          {
+            "id": "3:178",
+            "name": "主修绩点：4.62",
+            "type": "TEXT",
+            "x": 133.7564697265625,
+            "y": 541.224609375,
+            "width": 151.32138061523438,
+            "height": 26.11638069152832,
+            "text": "主修绩点：4.62",
+            "fontSize": 18.43509292602539
+          },
+          {
+            "id": "3:179",
+            "name": "综合排名：6/29",
+            "type": "TEXT",
+            "x": 133.7564697265625,
+            "y": 567.341064453125,
+            "width": 151.32138061523438,
+            "height": 26.11638069152832,
+            "text": "综合排名：6/29",
+            "fontSize": 18.43509292602539
+          },
+          {
+            "id": "3:180",
+            "name": "设计认知 / AI数字人格 / 人机协同 / 用户体验/视觉传达",
+            "type": "TEXT",
+            "x": 133.7564697265625,
+            "y": 646.4583129882812,
+            "width": 336.4404602050781,
+            "height": 53.00088882446289,
+            "text": "设计认知 / AI数字人格 / 人机协同 / 用户体验/视觉传达",
+            "fontSize": 18.43509292602539
+          },
+          {
+            "id": "3:181",
+            "name": "综合绩点：4.533/5",
+            "type": "TEXT",
+            "x": 133.7564697265625,
+            "y": 515.1082763671875,
+            "width": 178.97401428222656,
+            "height": 26.11638069152832,
+            "text": "综合绩点：4.533/5",
+            "fontSize": 18.43509292602539
+          },
+          {
+            "id": "3:182",
+            "name": "预备党员",
+            "type": "TEXT",
+            "x": 378.7895812988281,
+            "y": 515.1082763671875,
+            "width": 178.97401428222656,
+            "height": 26.11638069152832,
+            "text": "预备党员",
+            "fontSize": 18.43509292602539
+          },
+          {
+            "id": "3:183",
+            "name": "研究兴趣",
+            "type": "TEXT",
+            "x": 133.7564697265625,
+            "y": 619.5738525390625,
+            "width": 82,
+            "height": 27,
+            "text": "研究兴趣",
+            "fontSize": 18.43509292602539
+          },
+          {
+            "id": "3:187",
+            "name": "设计认知与用户理解",
+            "type": "TEXT",
+            "x": 618.4156494140625,
+            "y": 291.83,
+            "width": 202.77108764648438,
+            "height": 28.72590446472168,
+            "text": "设计认知与用户理解",
+            "fontSize": 16.89759063720703
+          },
+          {
+            "id": "3:188",
+            "name": "浙江大学人工智能学院 · IABC实验室",
+            "type": "TEXT",
+            "x": 617.57080078125,
+            "y": 231.85,
+            "width": 631.9699096679688,
+            "height": 28.72590446472168,
+            "text": "浙江大学人工智能学院 · IABC实验室",
+            "fontSize": 20.27710723876953
+          },
+          {
+            "id": "3:189",
+            "name": "围绕用户在设计与交互过程中的认知差异、信息理解与行为反馈展开研究，通过实验与问卷等方法，将抽象的用户认知特征转化为可观察、可分析的信息。",
+            "type": "TEXT",
+            "x": 618.4156494140625,
+            "y": 317.18,
+            "width": 475.66717529296875,
+            "height": 67.59036254882812,
+            "text": "围绕用户在设计与交互过程中的认知差异、信息理解与行为反馈展开研究，通过实验与问卷等方法，将抽象的用户认知特征转化为可观察、可分析的信息。",
+            "fontSize": 10.983433723449707
+          },
+          {
+            "id": "3:190",
+            "name": "AI数字人格与人格链",
+            "type": "TEXT",
+            "x": 618.4156494140625,
+            "y": 356.05,
+            "width": 202.77108764648438,
+            "height": 28.72590446472168,
+            "text": "AI数字人格与人格链",
+            "fontSize": 16.89759063720703
+          },
+          {
+            "id": "3:191",
+            "name": "参与人格化AI交互研究，以大五人格维度 × 场景任务类型为基础，探索从人格特征到实际交互行为的连续映射，进一步关注思维风格、决策方式与语言表达如何随人格与具体场景发生变化，使人格从静态标签转化为能够影响AI理解、判断与表达过程的动态设计依据。",
+            "type": "TEXT",
+            "x": 618.4156494140625,
+            "y": 381,
+            "width": 476,
+            "height": 31,
+            "text": "参与人格化AI交互研究，以大五人格维度 × 场景任务类型为基础，探索从人格特征到实际交互行为的连续映射，撰写人格连设计报告。",
+            "fontSize": 10.983433723449707
+          },
+          {
+            "id": "3:192",
+            "name": "LLM-enabled real-time design fixation monitoring and cognitive regulation",
+            "type": "TEXT",
+            "x": 619.2605590820312,
+            "y": 632.1295166015625,
+            "width": 488.3403625488281,
+            "height": 16.052711486816406,
+            "text": "LLM-enabled real-time design fixation monitoring and cognitive regulation\r\n",
+            "fontSize": 11.828312873840332
+          },
+          {
+            "id": "3:193",
+            "name": "Xiyuan Zhang, Ningfeng Tang, Aoyi Shen, Huiting Liu, Yuchen Cao, Yang Yin, Zhibin Zhou, Chunlei Chai*, and Hao Fan",
+            "type": "TEXT",
+            "x": 619.2605590820312,
+            "y": 634.6641845703125,
+            "width": 498.4789123535156,
+            "height": 77.72891235351562,
+            "text": "\nXiyuan Zhang, Ningfeng Tang, Aoyi Shen, Huiting Liu, Yuchen Cao, Yang Yin, Zhibin Zhou, Chunlei Chai*, and Hao Fan",
+            "fontSize": 10.983433723449707
+          },
+          {
+            "id": "3:194",
+            "name": "CogStyle: Simulating cognitive styles for GenAI and investigating cognitive style matching with designers under different levels of design task constraint",
+            "type": "TEXT",
+            "x": 619.2605590820312,
+            "y": 534.12353515625,
+            "width": 498.4789123535156,
+            "height": 42.24397659301758,
+            "text": "CogStyle: Simulating cognitive styles for GenAI and investigating\rcognitive style matching with designers under different levels of\rdesign task constraint",
+            "fontSize": 11.828312873840332
+          },
+          {
+            "id": "3:195",
+            "name": "投稿中（Advanced Engineering Informatics ）",
+            "type": "TEXT",
+            "x": 617.57080078125,
+            "y": 514.6912841796875,
+            "width": 354.8493957519531,
+            "height": 16.052711486816406,
+            "text": "投稿中（Advanced Engineering Informatics ）",
+            "fontSize": 11.828312873840332
+          },
+          {
+            "id": "3:196",
+            "name": "待投稿",
+            "type": "TEXT",
+            "x": 619.2605590820312,
+            "y": 615.23193359375,
+            "width": 354.8493957519531,
+            "height": 16.052711486816406,
+            "text": "待投稿",
+            "fontSize": 11.828312873840332
+          },
+          {
+            "id": "3:197",
+            "name": "Xiyuan Zhang, Jinyu Gu, Ningfeng Tang, Yuchen Cao, Yang Yin,Huiting Liu, Zhibin Zhou, Chunlei Chai, and Hao Fan",
+            "type": "TEXT",
+            "x": 618.4156494140625,
+            "y": 572.14306640625,
+            "width": 475.66717529296875,
+            "height": 31.260541915893555,
+            "text": "Xiyuan Zhang, Jinyu Gu, Ningfeng Tang, Yuchen Cao, Yang Yin,Huiting Liu, Zhibin Zhou, Chunlei Chai, and Hao Fan",
+            "fontSize": 10.983433723449707
+          },
+          {
+            "id": "3:198",
+            "name": "科研经历",
+            "type": "TEXT",
+            "x": 599.8283081054688,
+            "y": 182,
+            "width": 132.47947692871094,
+            "height": 36.05950164794922,
+            "text": "科研经历",
+            "fontSize": 27.036144256591797
+          },
+          {
+            "id": "3:199",
+            "name": "（前计算机学院设计学）",
+            "type": "TEXT",
+            "x": 608.277099609375,
+            "y": 261.42,
+            "width": 349.7801208496094,
+            "height": 24.501506805419922,
+            "text": "（前计算机学院设计学）",
+            "fontSize": 16.89759063720703
+          },
+          {
+            "id": "3:200",
+            "name": "Ellipse 18",
+            "type": "ELLIPSE",
+            "x": 588,
+            "y": 269.67620849609375,
+            "width": 9.29367446899414,
+            "height": 9.29367446899414
+          },
+          {
+            "id": "3:201",
+            "name": "论文",
+            "type": "TEXT",
+            "x": 617.57080078125,
+            "y": 464,
+            "width": 631.9699096679688,
+            "height": 28.72590446472168,
+            "text": "论文",
+            "fontSize": 20.27710723876953
+          },
+          {
+            "id": "3:202",
+            "name": "Ellipse 19",
+            "type": "ELLIPSE",
+            "x": 588,
+            "y": 489.3448486328125,
+            "width": 9.29367446899414,
+            "height": 9.29367446899414
+          },
+          {
+            "id": "3:203",
+            "name": "国家级大学生创新训练计划项目",
+            "type": "TEXT",
+            "x": 617.57080078125,
+            "y": 690,
+            "width": 631.9699096679688,
+            "height": 28.72590446472168,
+            "text": "国家级大学生创新训练计划项目",
+            "fontSize": 20.27710723876953
+          },
+          {
+            "id": "3:204",
+            "name": "Ellipse 20",
+            "type": "ELLIPSE",
+            "x": 588,
+            "y": 714.927734375,
+            "width": 9.29367446899414,
+            "height": 9.29367446899414
+          },
+          {
+            "id": "3:205",
+            "name": "结题审批通过",
+            "type": "TEXT",
+            "x": 619,
+            "y": 719,
+            "width": 79,
+            "height": 17,
+            "text": "结题审批通过",
+            "fontSize": 11.828312873840332
+          },
+          {
+            "id": "3:207",
+            "name": "专业技能",
+            "type": "TEXT",
+            "x": 1152,
+            "y": 182,
+            "width": 136.68881225585938,
+            "height": 60.94405746459961,
+            "text": "专业技能",
+            "fontSize": 27.860139846801758
+          },
+          {
+            "id": "3:208",
+            "name": "Group 1597881244",
+            "type": "GROUP",
+            "x": 1158.965087890625,
+            "y": 261.97900390625,
+            "width": 213.30419921875,
+            "height": 195.02098083496094,
+            "children": [
+              {
+                "id": "3:209",
+                "name": "软件 Figma /ChatGPT/Codex/ Photoshop /Canvas/Tobii",
+                "type": "TEXT",
+                "x": 1158.9650349650365,
+                "y": 395.18531799316406,
+                "width": 198.5034942626953,
+                "height": 61.8146858215332,
+                "text": "软件\nFigma /ChatGPT/Codex/ Photoshop /Canvas/Tobii"
+              },
+              {
+                "id": "3:210",
+                "name": "AI与数字实践 生成式人工智能 / 提示词设计/Vibe Coding / AI辅助原型开发",
+                "type": "TEXT",
+                "x": 1158.9650349650365,
+                "y": 329.8881149291992,
+                "width": 198.5034942626953,
+                "height": 61.8146858215332,
+                "text": "AI与数字实践\n生成式人工智能 / 提示词设计/Vibe Coding / AI辅助原型开发"
+              },
+              {
+                "id": "3:211",
+                "name": "设计 服务设计 / 用户研究 / 交互设计/ 界面设计 / 信息可视化 / 视觉设计",
+                "type": "TEXT",
+                "x": 1158.965087890625,
+                "y": 261.97900390625,
+                "width": 213.30419921875,
+                "height": 61.8146858215332,
+                "text": "设计\n服务设计 / 用户研究 / 交互设计/\n界面设计 / 信息可视化 / 视觉设计"
+              }
+            ]
+          },
+          {
+            "id": "22:9",
+            "name": "子课题组",
+            "type": "TEXT",
+            "x": 618,
+            "y": 422,
+            "width": 486,
+            "height": 47,
+            "fontSize": 14,
+            "text": "“面向玩具产品的大型直播选品中心运营系统研发及应用”子课题组"
+          }
+        ]
+      },
+      {
+        "id": "3:226",
+        "name": "03_ABOUT_PROFILE_PHOTO",
+        "type": "FRAME",
+        "x": 2950,
+        "y": -2077,
+        "width": 214.93186950683594,
+        "height": 243.66036987304688
+      },
+      {
+        "id": "3:223",
+        "name": "03_ABOUT_BLUE_CARD_HOLE_EDGE",
+        "type": "FRAME",
+        "x": 1496,
+        "y": -2486,
+        "width": 1332,
+        "height": 860
+      },
+      {
+        "id": "3:220",
+        "name": "03_ABOUT_FOLDER_KRAFT_BACK",
+        "type": "FRAME",
+        "x": 557,
+        "y": -2405,
+        "width": 680.37646484375,
+        "height": 699
+      },
+      {
+        "id": "3:217",
+        "name": "03_ABOUT_BLUE_CARD_BG",
+        "type": "FRAME",
+        "x": -64,
+        "y": -2405,
+        "width": 600.024169921875,
+        "height": 602.0128784179688
+      }
+    ]
+  },
+  {
+    "id": "3:229",
+    "name": "04_ARCHIVE",
+    "type": "PAGE",
+    "children": [
+      {
+        "id": "3:230",
+        "name": "原纸质作品集目录页面内容参考",
+        "type": "FRAME",
+        "x": 0,
+        "y": 0,
+        "width": 2434,
+        "height": 1080
+      },
+      {
+        "id": "3:404",
+        "name": "04_ARCHIVE_INDEX_LINE_TEXTURE",
+        "type": "FRAME",
+        "x": 73,
+        "y": 2439,
+        "width": 524,
+        "height": 1106
+      },
+      {
+        "id": "3:287",
+        "name": "04_ARCHIVE_REFERENCE_DEFAULT_LAYOUT",
+        "type": "FRAME",
+        "x": 73,
+        "y": 1378,
+        "width": 1568,
+        "height": 900,
+        "children": [
+          {
+            "id": "3:288",
+            "name": "22 1",
+            "type": "RECTANGLE",
+            "x": 1777,
+            "y": -369,
+            "width": 1818,
+            "height": 1818
+          },
+          {
+            "id": "3:401",
+            "name": "03_ARCHIVE_INDEX_PAPER_BG",
+            "type": "FRAME",
+            "x": 45.200374603271484,
+            "y": 99.8472900390625,
+            "width": 365.5992736816406,
+            "height": 724.3053588867188
+          },
+          {
+            "id": "3:289",
+            "name": "02_ABOUT_BLUE_CARD_HOLE_EDGE",
+            "type": "FRAME",
+            "x": 445,
+            "y": 20,
+            "width": 1332,
+            "height": 860
+          },
+          {
+            "id": "4:410",
+            "name": "03_ARCHIVE_FOLDER_OTHER",
+            "type": "FRAME",
+            "x": 1258,
+            "y": 409,
+            "width": 337.20037841796875,
+            "height": 337.20037841796875
+          },
+          {
+            "id": "3:333",
+            "name": "Frame 1597881255",
+            "type": "FRAME",
+            "x": 125.54086303710938,
+            "y": 203.12913513183594,
+            "width": 252.92332458496094,
+            "height": 484.333984375
+          },
+          {
+            "id": "3:371",
+            "name": "Group 1597881248",
+            "type": "GROUP",
+            "x": 580,
+            "y": 240,
+            "width": 246.34689331054688,
+            "height": 359.8759765625,
+            "children": [
+              {
+                "id": "3:407",
+                "name": "03_ARCHIVE_OBJ_WOODLAB",
+                "type": "FRAME",
+                "x": 580,
+                "y": 240,
+                "width": 246.34689331054688,
+                "height": 328.46258544921875
+              },
+              {
+                "id": "3:406",
+                "name": "Group 1597881259",
+                "type": "GROUP",
+                "x": 603.146728515625,
+                "y": 557.991455078125,
+                "width": 99.75120544433594,
+                "height": 41.88450622558594
+              }
+            ]
+          },
+          {
+            "id": "4:408",
+            "name": "03_ARCHIVE_OBJ_NUOFIELD",
+            "type": "FRAME",
+            "x": 703,
+            "y": 345,
+            "width": 355.17376708984375,
+            "height": 454.9183349609375
+          },
+          {
+            "id": "3:393",
+            "name": "Group 1597881257",
+            "type": "GROUP",
+            "x": 918,
+            "y": 355,
+            "width": 99.75122833251953,
+            "height": 41.88438415527344,
+            "children": [
+              {
+                "id": "3:380",
+                "name": "Part 03",
+                "type": "TEXT",
+                "x": 918,
+                "y": 355,
+                "width": 99.75122833251953,
+                "height": 20.942243576049805,
+                "text": "Part 03",
+                "fontSize": 17.635574340820312
+              },
+              {
+                "id": "3:381",
+                "name": "Nuo Feild",
+                "type": "TEXT",
+                "x": 918,
+                "y": 375.942138671875,
+                "width": 99.75122833251953,
+                "height": 20.942243576049805,
+                "text": "Nuo Feild",
+                "fontSize": 17.635574340820312
+              }
+            ]
+          },
+          {
+            "id": "4:409",
+            "name": "03_ARCHIVE_OBJ_BEEFLOW",
+            "type": "FRAME",
+            "x": 996,
+            "y": 323,
+            "width": 274,
+            "height": 459.48590087890625
+          },
+          {
+            "id": "3:394",
+            "name": "Group 1597881258",
+            "type": "GROUP",
+            "x": 1220,
+            "y": 360,
+            "width": 240.751220703125,
+            "height": 136.88450622558594,
+            "children": [
+              {
+                "id": "3:387",
+                "name": "Part 04",
+                "type": "TEXT",
+                "x": 1220,
+                "y": 455,
+                "width": 99.75121307373047,
+                "height": 20.942243576049805,
+                "text": "Part 04",
+                "fontSize": 17.63557243347168
+              },
+              {
+                "id": "3:388",
+                "name": "追花为生",
+                "type": "TEXT",
+                "x": 1220,
+                "y": 475.9422607421875,
+                "width": 99.75121307373047,
+                "height": 20.942243576049805,
+                "text": "追花为生",
+                "fontSize": 17.63557243347168
+              },
+              {
+                "id": "3:396",
+                "name": "Part 05",
+                "type": "TEXT",
+                "x": 1361,
+                "y": 360,
+                "width": 99.75121307373047,
+                "height": 20.942243576049805,
+                "text": "Part 05",
+                "fontSize": 17.63557243347168
+              },
+              {
+                "id": "3:397",
+                "name": "其他",
+                "type": "TEXT",
+                "x": 1361,
+                "y": 380.9422607421875,
+                "width": 99.75121307373047,
+                "height": 20.942243576049805,
+                "text": "其他",
+                "fontSize": 17.63557243347168
+              }
+            ]
+          },
+          {
+            "id": "4:479",
+            "name": "底部文件夹遮罩",
+            "type": "FRAME",
+            "x": -118,
+            "y": 517.9999389648438,
+            "width": 1888.566650390625,
+            "height": 1485.1181640625
+          }
+        ]
+      },
+      {
+        "id": "4:480",
+        "name": "底部文件夹遮罩",
+        "type": "FRAME",
+        "x": 2324,
+        "y": 1325,
+        "width": 1888.566650390625,
+        "height": 1485.1181640625
+      },
+      {
+        "id": "4:458",
+        "name": "04_ARCHIVE_OBJ_WOODLAB",
+        "type": "FRAME",
+        "x": 1026,
+        "y": 2497,
+        "width": 246.34689331054688,
+        "height": 328.46258544921875
+      },
+      {
+        "id": "4:461",
+        "name": "04_ARCHIVE_OBJ_BEEFLOW",
+        "type": "FRAME",
+        "x": 1442,
+        "y": 2580,
+        "width": 274,
+        "height": 459.48590087890625
+      },
+      {
+        "id": "4:467",
+        "name": "04_ARCHIVE_OBJ_NUOFIELD",
+        "type": "FRAME",
+        "x": 1149,
+        "y": 2602,
+        "width": 355.17376708984375,
+        "height": 454.9183349609375
+      },
+      {
+        "id": "4:472",
+        "name": "04_ARCHIVE_FOLDER_OTHER",
+        "type": "FRAME",
+        "x": 1704,
+        "y": 2666,
+        "width": 337.20037841796875,
+        "height": 337.20037841796875
+      },
+      {
+        "id": "4:474",
+        "name": "04_ARCHIVE_OBJ_PAWTERN",
+        "type": "FRAME",
+        "x": 739,
+        "y": 2521.626953125,
+        "width": 190.13348388671875,
+        "height": 327.3604431152344
+      }
+    ]
+  },
+  {
+    "id": "6:130",
+    "name": "05_PROJECT_PAWTERN",
+    "type": "PAGE",
+    "children": [
+      {
+        "id": "6:4215",
+        "name": "Frame 2",
+        "type": "FRAME",
+        "x": -846,
+        "y": -2,
+        "width": 3651,
+        "height": 1620,
+        "children": [
+          {
+            "id": "6:4209",
+            "name": "05_PAWTERN_BOOK_PAGE_03",
+            "type": "FRAME",
+            "x": 0,
+            "y": 0,
+            "width": 1826,
+            "height": 1620,
+            "children": [
+              {
+                "id": "6:4169",
+                "name": "背景 1",
+                "type": "RECTANGLE",
+                "x": 0,
+                "y": 0,
+                "width": 1826,
+                "height": 1620
+              }
+            ]
+          },
+          {
+            "id": "6:4210",
+            "name": "05_PAWTERN_BOOK_PAGE_04",
+            "type": "FRAME",
+            "x": 1826,
+            "y": 0,
+            "width": 1825,
+            "height": 1620,
+            "children": [
+              {
+                "id": "6:4180",
+                "name": "背景 2",
+                "type": "RECTANGLE",
+                "x": 0,
+                "y": 0,
+                "width": 1825,
+                "height": 1620
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6:4208",
+        "name": "Frame 1",
+        "type": "FRAME",
+        "x": -846,
+        "y": -1827,
+        "width": 3652,
+        "height": 1620,
+        "children": [
+          {
+            "id": "6:4206",
+            "name": "05_PAWTERN_BOOK_PAGE_01",
+            "type": "FRAME",
+            "x": 0,
+            "y": 0,
+            "width": 1825,
+            "height": 1620,
+            "children": [
+              {
+                "id": "6:4170",
+                "name": "封面-1 1",
+                "type": "RECTANGLE",
+                "x": 0,
+                "y": 0,
+                "width": 1825,
+                "height": 1620
+              }
+            ]
+          },
+          {
+            "id": "6:4207",
+            "name": "05_PAWTERN_BOOK_PAGE_02",
+            "type": "FRAME",
+            "x": 1826,
+            "y": 0,
+            "width": 1826,
+            "height": 1620,
+            "children": [
+              {
+                "id": "6:4178",
+                "name": "封面-1 2",
+                "type": "RECTANGLE",
+                "x": 0,
+                "y": 0,
+                "width": 1826,
+                "height": 1620
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6:4217",
+        "name": "Frame 4",
+        "type": "FRAME",
+        "x": -846,
+        "y": 3383,
+        "width": 3650,
+        "height": 1620,
+        "children": [
+          {
+            "id": "6:4213",
+            "name": "05_PAWTERN_BOOK_PAGE_07",
+            "type": "FRAME",
+            "x": 0,
+            "y": 0,
+            "width": 1826,
+            "height": 1620,
+            "children": [
+              {
+                "id": "6:4171",
+                "name": "焦点小组 1",
+                "type": "RECTANGLE",
+                "x": 0,
+                "y": 0,
+                "width": 1826,
+                "height": 1620
+              }
+            ]
+          },
+          {
+            "id": "6:4214",
+            "name": "05_PAWTERN_BOOK_PAGE_08",
+            "type": "FRAME",
+            "x": 1825,
+            "y": 0,
+            "width": 1825,
+            "height": 1620,
+            "children": [
+              {
+                "id": "6:4187",
+                "name": "焦点小组 2",
+                "type": "RECTANGLE",
+                "x": 0,
+                "y": 0,
+                "width": 1825,
+                "height": 1620
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6:4224",
+        "name": "Frame 6",
+        "type": "FRAME",
+        "x": -846,
+        "y": 6945,
+        "width": 3651,
+        "height": 1620,
+        "children": [
+          {
+            "id": "6:4221",
+            "name": "05_PAWTERN_BOOK_PAGE_11",
+            "type": "FRAME",
+            "x": 0,
+            "y": 0,
+            "width": 1826,
+            "height": 1620,
+            "children": [
+              {
+                "id": "6:4172",
+                "name": "空间产出 1",
+                "type": "RECTANGLE",
+                "x": 0,
+                "y": 0,
+                "width": 1826,
+                "height": 1620
+              }
+            ]
+          },
+          {
+            "id": "6:4223",
+            "name": "05_PAWTERN_BOOK_PAGE_12",
+            "type": "FRAME",
+            "x": 1826,
+            "y": 0,
+            "width": 1825,
+            "height": 1620,
+            "children": [
+              {
+                "id": "6:4192",
+                "name": "空间产出 2",
+                "type": "RECTANGLE",
+                "x": 0,
+                "y": 0,
+                "width": 1825,
+                "height": 1620
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6:4218",
+        "name": "Frame 5",
+        "type": "FRAME",
+        "x": -846,
+        "y": 5208,
+        "width": 3652,
+        "height": 1620,
+        "children": [
+          {
+            "id": "6:4219",
+            "name": "05_PAWTERN_BOOK_PAGE_09",
+            "type": "FRAME",
+            "x": 0,
+            "y": 0,
+            "width": 1826,
+            "height": 1620,
+            "children": [
+              {
+                "id": "6:4173",
+                "name": "Ideation 1",
+                "type": "RECTANGLE",
+                "x": 0,
+                "y": 0,
+                "width": 1826,
+                "height": 1620
+              }
+            ]
+          },
+          {
+            "id": "6:4220",
+            "name": "05_PAWTERN_BOOK_PAGE_10",
+            "type": "FRAME",
+            "x": 1826,
+            "y": 0,
+            "width": 1826,
+            "height": 1620,
+            "children": [
+              {
+                "id": "6:4189",
+                "name": "Ideation 2",
+                "type": "RECTANGLE",
+                "x": 0,
+                "y": 0,
+                "width": 1826,
+                "height": 1620
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6:4231",
+        "name": "Frame 7",
+        "type": "FRAME",
+        "x": -846,
+        "y": 8770,
+        "width": 3652,
+        "height": 1620,
+        "children": [
+          {
+            "id": "6:4225",
+            "name": "05_PAWTERN_BOOK_PAGE_13",
+            "type": "FRAME",
+            "x": 0,
+            "y": 0,
+            "width": 1825,
+            "height": 1620,
+            "children": [
+              {
+                "id": "6:4174",
+                "name": "UI1 1",
+                "type": "RECTANGLE",
+                "x": 0,
+                "y": 0,
+                "width": 1825,
+                "height": 1620
+              }
+            ]
+          },
+          {
+            "id": "6:4226",
+            "name": "05_PAWTERN_BOOK_PAGE_14",
+            "type": "FRAME",
+            "x": 1825,
+            "y": 0,
+            "width": 1827,
+            "height": 1620,
+            "children": [
+              {
+                "id": "6:4194",
+                "name": "UI1 2",
+                "type": "RECTANGLE",
+                "x": 0,
+                "y": 0,
+                "width": 1827,
+                "height": 1620
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6:4232",
+        "name": "Frame 8",
+        "type": "FRAME",
+        "x": -846,
+        "y": 10595,
+        "width": 3652,
+        "height": 1620,
+        "children": [
+          {
+            "id": "6:4227",
+            "name": "05_PAWTERN_BOOK_PAGE_15",
+            "type": "FRAME",
+            "x": 0,
+            "y": 0,
+            "width": 1825,
+            "height": 1620,
+            "children": [
+              {
+                "id": "6:4175",
+                "name": "UI2 1",
+                "type": "RECTANGLE",
+                "x": 0,
+                "y": 0,
+                "width": 1825,
+                "height": 1620
+              }
+            ]
+          },
+          {
+            "id": "6:4228",
+            "name": "05_PAWTERN_BOOK_PAGE_16",
+            "type": "FRAME",
+            "x": 1825,
+            "y": 0,
+            "width": 1827,
+            "height": 1620,
+            "children": [
+              {
+                "id": "6:4199",
+                "name": "UI2 2",
+                "type": "RECTANGLE",
+                "x": 0,
+                "y": 0,
+                "width": 1827,
+                "height": 1620
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6:4233",
+        "name": "Frame 9",
+        "type": "FRAME",
+        "x": -846,
+        "y": 12420,
+        "width": 3651,
+        "height": 1620,
+        "children": [
+          {
+            "id": "6:4229",
+            "name": "05_PAWTERN_BOOK_PAGE_17",
+            "type": "FRAME",
+            "x": 0,
+            "y": 0,
+            "width": 1825,
+            "height": 1620,
+            "children": [
+              {
+                "id": "6:4177",
+                "name": "收尾 storyboard 1",
+                "type": "RECTANGLE",
+                "x": 0,
+                "y": 0,
+                "width": 1825,
+                "height": 1620
+              }
+            ]
+          },
+          {
+            "id": "6:4230",
+            "name": "05_PAWTERN_BOOK_PAGE_18",
+            "type": "FRAME",
+            "x": 1825,
+            "y": 0,
+            "width": 1826,
+            "height": 1620,
+            "children": [
+              {
+                "id": "6:4204",
+                "name": "收尾 storyboard 2",
+                "type": "RECTANGLE",
+                "x": 0,
+                "y": 0,
+                "width": 1826,
+                "height": 1620
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6:4216",
+        "name": "Frame 3",
+        "type": "FRAME",
+        "x": -846,
+        "y": 1646,
+        "width": 3651,
+        "height": 1620,
+        "children": [
+          {
+            "id": "6:4211",
+            "name": "05_PAWTERN_BOOK_PAGE_05",
+            "type": "FRAME",
+            "x": 0,
+            "y": 0,
+            "width": 1826,
+            "height": 1620,
+            "children": [
+              {
+                "id": "6:4176",
+                "name": "案例研究 等） 1",
+                "type": "RECTANGLE",
+                "x": 0,
+                "y": 0,
+                "width": 1826,
+                "height": 1620
+              }
+            ]
+          },
+          {
+            "id": "6:4212",
+            "name": "05_PAWTERN_BOOK_PAGE_06",
+            "type": "FRAME",
+            "x": 1825,
+            "y": 0,
+            "width": 1826,
+            "height": 1620,
+            "children": [
+              {
+                "id": "6:4185",
+                "name": "案例研究 等） 2",
+                "type": "RECTANGLE",
+                "x": 0,
+                "y": 0,
+                "width": 1826,
+                "height": 1620
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6:5303",
+        "name": "05_PAWTERN_PHONE_FRAME",
+        "type": "FRAME",
+        "x": 3081,
+        "y": 1235,
+        "width": 155.87176513671875,
+        "height": 317.25079345703125,
+        "children": [
+          {
+            "id": "6:5301",
+            "name": "IPHONE 16 - ULTRAMARINE",
+            "type": "RECTANGLE",
+            "x": 0,
+            "y": 0,
+            "width": 155.87176513671875,
+            "height": 317.25079345703125
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6:4255",
+    "name": "06_PROJECT_WOODLAB",
+    "type": "PAGE",
+    "children": [
+      {
+        "id": "6:4279",
+        "name": "06_WOODLAB_BOOK_PAGE_05",
+        "type": "FRAME",
+        "x": -5477,
+        "y": 346,
+        "width": 1825,
+        "height": 1620,
+        "children": [
+          {
+            "id": "6:4256",
+            "name": "构思 1",
+            "type": "RECTANGLE",
+            "x": 0,
+            "y": 0,
+            "width": 1825,
+            "height": 1620
+          }
+        ]
+      },
+      {
+        "id": "6:4280",
+        "name": "06_WOODLAB_BOOK_PAGE_06",
+        "type": "FRAME",
+        "x": -3652,
+        "y": 346,
+        "width": 1826,
+        "height": 1620,
+        "children": [
+          {
+            "id": "6:4261",
+            "name": "构思 2",
+            "type": "RECTANGLE",
+            "x": 0,
+            "y": 0,
+            "width": 1826,
+            "height": 1620
+          }
+        ]
+      },
+      {
+        "id": "6:4277",
+        "name": "06_WOODLAB_BOOK_PAGE_03",
+        "type": "FRAME",
+        "x": -5477,
+        "y": -1640,
+        "width": 1785,
+        "height": 1620,
+        "children": [
+          {
+            "id": "6:4257",
+            "name": "灵感、调研 1",
+            "type": "RECTANGLE",
+            "x": 0,
+            "y": 0,
+            "width": 1785,
+            "height": 1620
+          }
+        ]
+      },
+      {
+        "id": "6:4278",
+        "name": "06_WOODLAB_BOOK_PAGE_04",
+        "type": "FRAME",
+        "x": -3692,
+        "y": -1640,
+        "width": 1866,
+        "height": 1620,
+        "children": [
+          {
+            "id": "6:4269",
+            "name": "灵感、调研 2",
+            "type": "RECTANGLE",
+            "x": 0,
+            "y": 0,
+            "width": 1866,
+            "height": 1620
+          }
+        ]
+      },
+      {
+        "id": "6:4281",
+        "name": "06_WOODLAB_BOOK_PAGE_07",
+        "type": "FRAME",
+        "x": -5477,
+        "y": 2078,
+        "width": 1825,
+        "height": 1620,
+        "children": [
+          {
+            "id": "6:4258",
+            "name": "实现 1",
+            "type": "RECTANGLE",
+            "x": 0,
+            "y": 0,
+            "width": 1825,
+            "height": 1620
+          }
+        ]
+      },
+      {
+        "id": "6:4282",
+        "name": "06_WOODLAB_BOOK_PAGE_08",
+        "type": "FRAME",
+        "x": -3652,
+        "y": 2078,
+        "width": 1826,
+        "height": 1620,
+        "children": [
+          {
+            "id": "6:4271",
+            "name": "实现 2",
+            "type": "RECTANGLE",
+            "x": 0,
+            "y": 0,
+            "width": 1826,
+            "height": 1620
+          }
+        ]
+      },
+      {
+        "id": "6:4283",
+        "name": "06_WOODLAB_BOOK_PAGE_09",
+        "type": "FRAME",
+        "x": -5477,
+        "y": 4064,
+        "width": 1825,
+        "height": 1620,
+        "children": [
+          {
+            "id": "6:4259",
+            "name": "效果 1",
+            "type": "RECTANGLE",
+            "x": 0,
+            "y": 0,
+            "width": 1825,
+            "height": 1620
+          }
+        ]
+      },
+      {
+        "id": "6:4284",
+        "name": "06_WOODLAB_BOOK_PAGE_10",
+        "type": "FRAME",
+        "x": -3652,
+        "y": 4064,
+        "width": 1826,
+        "height": 1620,
+        "children": [
+          {
+            "id": "6:4273",
+            "name": "效果 2",
+            "type": "RECTANGLE",
+            "x": 0,
+            "y": 0,
+            "width": 1826,
+            "height": 1620
+          }
+        ]
+      },
+      {
+        "id": "6:4275",
+        "name": "06_WOODLAB_BOOK_PAGE_01",
+        "type": "FRAME",
+        "x": -5477,
+        "y": -3384,
+        "width": 1785,
+        "height": 1620,
+        "children": [
+          {
+            "id": "6:4260",
+            "name": "封面-2 1",
+            "type": "RECTANGLE",
+            "x": 0,
+            "y": 0,
+            "width": 1785,
+            "height": 1620
+          }
+        ]
+      },
+      {
+        "id": "6:4276",
+        "name": "06_WOODLAB_BOOK_PAGE_02",
+        "type": "FRAME",
+        "x": -3692,
+        "y": -3384,
+        "width": 1866,
+        "height": 1620,
+        "children": [
+          {
+            "id": "6:4264",
+            "name": "封面-2 2",
+            "type": "RECTANGLE",
+            "x": 0,
+            "y": 0,
+            "width": 1866,
+            "height": 1620
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6:4285",
+    "name": "07_PROJECT_NUOFIELD",
+    "type": "PAGE",
+    "children": [
+      {
+        "id": "6:4303",
+        "name": "07_NUOFIELD_BOOK_PAGE_03",
+        "type": "FRAME",
+        "x": -3671,
+        "y": -2933,
+        "width": 1825,
+        "height": 1620,
+        "children": [
+          {
+            "id": "6:4286",
+            "name": "项目缘起&背景溯源 1",
+            "type": "RECTANGLE",
+            "x": 0,
+            "y": 0,
+            "width": 1825,
+            "height": 1620
+          }
+        ]
+      },
+      {
+        "id": "6:4305",
+        "name": "07_NUOFIELD_BOOK_PAGE_04",
+        "type": "FRAME",
+        "x": -1846,
+        "y": -2933,
+        "width": 1826,
+        "height": 1620,
+        "children": [
+          {
+            "id": "6:4295",
+            "name": "项目缘起&背景溯源 2",
+            "type": "RECTANGLE",
+            "x": 0,
+            "y": 0,
+            "width": 1826,
+            "height": 1620
+          }
+        ]
+      },
+      {
+        "id": "6:4301",
+        "name": "07_NUOFIELD_BOOK_PAGE_01",
+        "type": "FRAME",
+        "x": -3671,
+        "y": -4949,
+        "width": 1825,
+        "height": 1620,
+        "children": [
+          {
+            "id": "6:4287",
+            "name": "封面 1",
+            "type": "RECTANGLE",
+            "x": 0,
+            "y": 0,
+            "width": 1825,
+            "height": 1620
+          }
+        ]
+      },
+      {
+        "id": "6:4302",
+        "name": "07_NUOFIELD_BOOK_PAGE_02",
+        "type": "FRAME",
+        "x": -1846,
+        "y": -4949,
+        "width": 1826,
+        "height": 1620,
+        "children": [
+          {
+            "id": "6:4293",
+            "name": "封面 2",
+            "type": "RECTANGLE",
+            "x": 0,
+            "y": 0,
+            "width": 1826,
+            "height": 1620
+          }
+        ]
+      },
+      {
+        "id": "6:4306",
+        "name": "07_NUOFIELD_BOOK_PAGE_05",
+        "type": "FRAME",
+        "x": -3671,
+        "y": -626,
+        "width": 1825,
+        "height": 1620,
+        "children": [
+          {
+            "id": "6:4288",
+            "name": "工作流&框架 1",
+            "type": "RECTANGLE",
+            "x": 0,
+            "y": 0,
+            "width": 1825,
+            "height": 1620
+          }
+        ]
+      },
+      {
+        "id": "6:4307",
+        "name": "07_NUOFIELD_BOOK_PAGE_06",
+        "type": "FRAME",
+        "x": -1846,
+        "y": -626,
+        "width": 1826,
+        "height": 1620,
+        "children": [
+          {
+            "id": "6:4297",
+            "name": "工作流&框架 2",
+            "type": "RECTANGLE",
+            "x": 0,
+            "y": 0,
+            "width": 1826,
+            "height": 1620
+          }
+        ]
+      },
+      {
+        "id": "6:4308",
+        "name": "07_NUOFIELD_BOOK_PAGE_07",
+        "type": "FRAME",
+        "x": -3671,
+        "y": 1680,
+        "width": 1825,
+        "height": 1620,
+        "children": [
+          {
+            "id": "6:4289",
+            "name": "流程&元素&效果 1",
+            "type": "RECTANGLE",
+            "x": 0,
+            "y": 0,
+            "width": 1825,
+            "height": 1620
+          }
+        ]
+      },
+      {
+        "id": "6:4309",
+        "name": "07_NUOFIELD_BOOK_PAGE_08",
+        "type": "FRAME",
+        "x": -1846,
+        "y": 1680,
+        "width": 1826,
+        "height": 1620,
+        "children": [
+          {
+            "id": "6:4299",
+            "name": "流程&元素&效果 2",
+            "type": "RECTANGLE",
+            "x": 0,
+            "y": 0,
+            "width": 1826,
+            "height": 1620
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6:4310",
+    "name": "08_PROJECT_BEEFLOW",
+    "type": "PAGE",
+    "children": [
+      {
+        "id": "6:4329",
+        "name": "08_BEEFLOW_BOOK_PAGE_07",
+        "type": "FRAME",
+        "x": -3700,
+        "y": 2431,
+        "width": 1825,
+        "height": 1620,
+        "children": [
+          {
+            "id": "6:4311",
+            "name": "Frame 33 1",
+            "type": "RECTANGLE",
+            "x": 0,
+            "y": 0,
+            "width": 1825,
+            "height": 1620
+          }
+        ]
+      },
+      {
+        "id": "6:4330",
+        "name": "08_BEEFLOW_BOOK_PAGE_08",
+        "type": "FRAME",
+        "x": -1875,
+        "y": 2431,
+        "width": 1826,
+        "height": 1620,
+        "children": [
+          {
+            "id": "6:4321",
+            "name": "Frame 33 2",
+            "type": "RECTANGLE",
+            "x": 0,
+            "y": 0,
+            "width": 1826,
+            "height": 1620
+          }
+        ]
+      },
+      {
+        "id": "6:4325",
+        "name": "08_BEEFLOW_BOOK_PAGE_03",
+        "type": "FRAME",
+        "x": -3700,
+        "y": -1946,
+        "width": 1825,
+        "height": 1620,
+        "children": [
+          {
+            "id": "6:4312",
+            "name": "Frame 34 1",
+            "type": "RECTANGLE",
+            "x": 0,
+            "y": 0,
+            "width": 1825,
+            "height": 1620
+          }
+        ]
+      },
+      {
+        "id": "6:4326",
+        "name": "08_BEEFLOW_BOOK_PAGE_04",
+        "type": "FRAME",
+        "x": -1875,
+        "y": -1946,
+        "width": 1826,
+        "height": 1620,
+        "children": [
+          {
+            "id": "6:4317",
+            "name": "Frame 34 2",
+            "type": "RECTANGLE",
+            "x": 0,
+            "y": 0,
+            "width": 1826,
+            "height": 1620
+          }
+        ]
+      },
+      {
+        "id": "6:4323",
+        "name": "08_BEEFLOW_BOOK_PAGE_01",
+        "type": "FRAME",
+        "x": -3700,
+        "y": -4326,
+        "width": 1825,
+        "height": 1620,
+        "children": [
+          {
+            "id": "6:4313",
+            "name": "Frame 2 9",
+            "type": "RECTANGLE",
+            "x": 0,
+            "y": 0,
+            "width": 1825,
+            "height": 1620
+          }
+        ]
+      },
+      {
+        "id": "6:4324",
+        "name": "08_BEEFLOW_BOOK_PAGE_02",
+        "type": "FRAME",
+        "x": -1875,
+        "y": -4326,
+        "width": 1826,
+        "height": 1620,
+        "children": [
+          {
+            "id": "6:4315",
+            "name": "Frame 2 10",
+            "type": "RECTANGLE",
+            "x": 0,
+            "y": 0,
+            "width": 1826,
+            "height": 1620
+          }
+        ]
+      },
+      {
+        "id": "6:4327",
+        "name": "08_BEEFLOW_BOOK_PAGE_05",
+        "type": "FRAME",
+        "x": -3700,
+        "y": 51,
+        "width": 1825,
+        "height": 1620,
+        "children": [
+          {
+            "id": "6:4314",
+            "name": "Frame 28 1",
+            "type": "RECTANGLE",
+            "x": 0,
+            "y": 0,
+            "width": 1825,
+            "height": 1620
+          }
+        ]
+      },
+      {
+        "id": "6:4328",
+        "name": "08_BEEFLOW_BOOK_PAGE_06",
+        "type": "FRAME",
+        "x": -1875,
+        "y": 51,
+        "width": 1826,
+        "height": 1620,
+        "children": [
+          {
+            "id": "6:4319",
+            "name": "Frame 28 2",
+            "type": "RECTANGLE",
+            "x": 0,
+            "y": 0,
+            "width": 1826,
+            "height": 1620
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6:4331",
+    "name": "09_OTHER_WORKS",
+    "type": "PAGE",
+    "children": [
+      {
+        "id": "6:4340",
+        "name": "09_OTHER_REFERENCE_DEFAULT",
+        "type": "FRAME",
+        "x": 290,
+        "y": 3478,
+        "width": 1568,
+        "height": 900,
+        "children": [
+          {
+            "id": "6:4341",
+            "name": "22 1",
+            "type": "RECTANGLE",
+            "x": 1777,
+            "y": -369,
+            "width": 1818,
+            "height": 1818
+          },
+          {
+            "id": "6:4415",
+            "name": "Other Works",
+            "type": "TEXT",
+            "x": 203,
+            "y": 91,
+            "width": 1093.516357421875,
+            "height": 277,
+            "text": "Other Works",
+            "fontSize": 173.80392456054688
+          },
+          {
+            "id": "6:4417",
+            "name": "09_OTHER_FOLDER_A",
+            "type": "FRAME",
+            "x": 49,
+            "y": 330,
+            "width": 1467,
+            "height": 1367
+          },
+          {
+            "id": "6:4418",
+            "name": "09_OTHER_FOLDER_B",
+            "type": "FRAME",
+            "x": 49,
+            "y": 403,
+            "width": 1467.296630859375,
+            "height": 1314.4686279296875
+          },
+          {
+            "id": "6:4419",
+            "name": "09_OTHER_FOLDER_C",
+            "type": "FRAME",
+            "x": 49,
+            "y": 428,
+            "width": 1467,
+            "height": 1339
+          },
+          {
+            "id": "6:4420",
+            "name": "09_OTHER_FOLDER_D",
+            "type": "FRAME",
+            "x": 49,
+            "y": 553,
+            "width": 1470,
+            "height": 1328
+          }
+        ]
+      },
+      {
+        "id": "6:4452",
+        "name": "09_OTHER_REFERENCE_ACTIVE_C",
+        "type": "FRAME",
+        "x": 5114,
+        "y": 3478,
+        "width": 1568,
+        "height": 1510,
+        "children": [
+          {
+            "id": "6:4453",
+            "name": "22 1",
+            "type": "RECTANGLE",
+            "x": 1777,
+            "y": -369,
+            "width": 1818,
+            "height": 1818
+          },
+          {
+            "id": "6:4454",
+            "name": "Other Works",
+            "type": "TEXT",
+            "x": 203,
+            "y": 91,
+            "width": 1093.516357421875,
+            "height": 277,
+            "text": "Other Works",
+            "fontSize": 173.80392456054688
+          },
+          {
+            "id": "6:4455",
+            "name": "Frame 1",
+            "type": "FRAME",
+            "x": 49,
+            "y": 240,
+            "width": 1467,
+            "height": 1367
+          },
+          {
+            "id": "6:4457",
+            "name": "Frame 2",
+            "type": "FRAME",
+            "x": 49,
+            "y": 313,
+            "width": 1467.296630859375,
+            "height": 1314.4686279296875
+          },
+          {
+            "id": "6:4459",
+            "name": "Frame 3",
+            "type": "FRAME",
+            "x": 49,
+            "y": 338,
+            "width": 1467,
+            "height": 1339
+          },
+          {
+            "id": "6:4461",
+            "name": "Frame 4",
+            "type": "FRAME",
+            "x": 49,
+            "y": 463,
+            "width": 1470,
+            "height": 1328
+          }
+        ]
+      },
+      {
+        "id": "6:4491",
+        "name": "09_OTHER_REFERENCE_ACTIVE_D",
+        "type": "FRAME",
+        "x": 6722,
+        "y": 3478,
+        "width": 1568,
+        "height": 1510,
+        "children": [
+          {
+            "id": "6:4492",
+            "name": "22 1",
+            "type": "RECTANGLE",
+            "x": 1777,
+            "y": -369,
+            "width": 1818,
+            "height": 1818
+          },
+          {
+            "id": "6:4493",
+            "name": "Other Works",
+            "type": "TEXT",
+            "x": 203,
+            "y": 91,
+            "width": 1093.516357421875,
+            "height": 277,
+            "text": "Other Works",
+            "fontSize": 173.80392456054688
+          },
+          {
+            "id": "6:4494",
+            "name": "Frame 1",
+            "type": "FRAME",
+            "x": 49,
+            "y": 240,
+            "width": 1467,
+            "height": 1367
+          },
+          {
+            "id": "6:4496",
+            "name": "Frame 2",
+            "type": "FRAME",
+            "x": 49,
+            "y": 313,
+            "width": 1467.296630859375,
+            "height": 1314.4686279296875
+          },
+          {
+            "id": "6:4498",
+            "name": "Frame 3",
+            "type": "FRAME",
+            "x": 49,
+            "y": 338,
+            "width": 1467,
+            "height": 1339
+          },
+          {
+            "id": "6:4500",
+            "name": "Frame 4",
+            "type": "FRAME",
+            "x": 46,
+            "y": 457,
+            "width": 1470,
+            "height": 1328
+          }
+        ]
+      },
+      {
+        "id": "6:4435",
+        "name": "09_OTHER_REFERENCE_ACTIVE_A",
+        "type": "FRAME",
+        "x": 1904,
+        "y": 3478,
+        "width": 1568,
+        "height": 1510,
+        "children": [
+          {
+            "id": "6:4436",
+            "name": "22 1",
+            "type": "RECTANGLE",
+            "x": 1777,
+            "y": -369,
+            "width": 1818,
+            "height": 1818
+          },
+          {
+            "id": "6:4437",
+            "name": "Other Works",
+            "type": "TEXT",
+            "x": 203,
+            "y": 91,
+            "width": 1093.516357421875,
+            "height": 277,
+            "text": "Other Works",
+            "fontSize": 173.80392456054688
+          },
+          {
+            "id": "6:4438",
+            "name": "Frame 1",
+            "type": "FRAME",
+            "x": 49,
+            "y": 240,
+            "width": 1467,
+            "height": 1367
+          },
+          {
+            "id": "6:4440",
+            "name": "Frame 2",
+            "type": "FRAME",
+            "x": 49,
+            "y": 1075,
+            "width": 1467.296630859375,
+            "height": 1314.4686279296875
+          },
+          {
+            "id": "6:4442",
+            "name": "Frame 3",
+            "type": "FRAME",
+            "x": 49,
+            "y": 1100,
+            "width": 1467,
+            "height": 1339
+          },
+          {
+            "id": "6:4444",
+            "name": "Frame 4",
+            "type": "FRAME",
+            "x": 49,
+            "y": 1225,
+            "width": 1470,
+            "height": 1328
+          }
+        ]
+      },
+      {
+        "id": "6:4421",
+        "name": "09_OTHER_REFERENCE_ACTIVE_B",
+        "type": "FRAME",
+        "x": 3472,
+        "y": 3424,
+        "width": 1568,
+        "height": 1510,
+        "children": [
+          {
+            "id": "6:4422",
+            "name": "22 1",
+            "type": "RECTANGLE",
+            "x": 1777,
+            "y": -369,
+            "width": 1818,
+            "height": 1818
+          },
+          {
+            "id": "6:4423",
+            "name": "Other Works",
+            "type": "TEXT",
+            "x": 203,
+            "y": 91,
+            "width": 1093.516357421875,
+            "height": 277,
+            "text": "Other Works",
+            "fontSize": 173.80392456054688
+          },
+          {
+            "id": "6:4424",
+            "name": "Frame 1",
+            "type": "FRAME",
+            "x": 49,
+            "y": 240,
+            "width": 1467,
+            "height": 1367
+          },
+          {
+            "id": "6:4426",
+            "name": "Frame 2",
+            "type": "FRAME",
+            "x": 49,
+            "y": 313,
+            "width": 1467.296630859375,
+            "height": 1314.4686279296875
+          },
+          {
+            "id": "6:4428",
+            "name": "Frame 3",
+            "type": "FRAME",
+            "x": 49,
+            "y": 1074,
+            "width": 1467,
+            "height": 1339
+          },
+          {
+            "id": "6:4430",
+            "name": "Frame 4",
+            "type": "FRAME",
+            "x": 49,
+            "y": 1199,
+            "width": 1470,
+            "height": 1328
+          }
+        ]
+      },
+      {
+        "id": "6:4557",
+        "name": "09_OTHER_A_ITEM_01",
+        "type": "FRAME",
+        "x": -2002,
+        "y": 6036,
+        "width": 653.7999877929688,
+        "height": 367.9996032714844
+      },
+      {
+        "id": "6:4559",
+        "name": "09_OTHER_A_ITEM_03",
+        "type": "FRAME",
+        "x": -694,
+        "y": 6036,
+        "width": 653.7999877929688,
+        "height": 367.9996032714844
+      },
+      {
+        "id": "6:4558",
+        "name": "09_OTHER_A_ITEM_02",
+        "type": "FRAME",
+        "x": -1348,
+        "y": 6036,
+        "width": 653.7999877929688,
+        "height": 367.9996032714844
+      },
+      {
+        "id": "6:4561",
+        "name": "09_OTHER_A_ITEM_05",
+        "type": "FRAME",
+        "x": 614,
+        "y": 6036,
+        "width": 653.7999877929688,
+        "height": 367.44573974609375
+      },
+      {
+        "id": "6:4560",
+        "name": "09_OTHER_A_ITEM_04",
+        "type": "FRAME",
+        "x": -40,
+        "y": 6036,
+        "width": 653.7999877929688,
+        "height": 367.9996032714844
+      },
+      {
+        "id": "6:4562",
+        "name": "09_OTHER_A_ITEM_06",
+        "type": "FRAME",
+        "x": 1268,
+        "y": 6037,
+        "width": 653.7999877929688,
+        "height": 367.44573974609375
+      },
+      {
+        "id": "6:4563",
+        "name": "09_OTHER_A_ITEM_07",
+        "type": "FRAME",
+        "x": 1904,
+        "y": 6035,
+        "width": 653.7999877929688,
+        "height": 367.9996032714844
+      },
+      {
+        "id": "6:4565",
+        "name": "09_OTHER_A_ITEM_09",
+        "type": "FRAME",
+        "x": 3212,
+        "y": 6035,
+        "width": 653.7999877929688,
+        "height": 367.9996032714844
+      },
+      {
+        "id": "6:4564",
+        "name": "09_OTHER_A_ITEM_08",
+        "type": "FRAME",
+        "x": 2558,
+        "y": 6035,
+        "width": 653.7999877929688,
+        "height": 367.9996032714844
+      },
+      {
+        "id": "6:4632",
+        "name": "09_OTHER_STRIP_A",
+        "type": "FRAME",
+        "x": -2002,
+        "y": 7152,
+        "width": 5884.19970703125,
+        "height": 367.9996032714844
+      },
+      {
+        "id": "6:5160",
+        "name": "09_OTHER_STRIP_B",
+        "type": "FRAME",
+        "x": -2001.877197265625,
+        "y": 8567,
+        "width": 9820.7548828125,
+        "height": 368
+      },
+      {
+        "id": "6:5161",
+        "name": "09_OTHER_B_ITEM_04",
+        "type": "FRAME",
+        "x": -38.8968505859375,
+        "y": 9682.5,
+        "width": 654.8042602539062,
+        "height": 368
+      },
+      {
+        "id": "6:5163",
+        "name": "09_OTHER_B_ITEM_05",
+        "type": "FRAME",
+        "x": 615.907470703125,
+        "y": 9682.5,
+        "width": 654.8042602539062,
+        "height": 368
+      },
+      {
+        "id": "6:5165",
+        "name": "09_OTHER_B_ITEM_06",
+        "type": "FRAME",
+        "x": 1270.711669921875,
+        "y": 9682.5,
+        "width": 654.8042602539062,
+        "height": 368
+      },
+      {
+        "id": "6:5167",
+        "name": "09_OTHER_B_ITEM_07",
+        "type": "FRAME",
+        "x": 1925.515869140625,
+        "y": 9682.5,
+        "width": 654.8042602539062,
+        "height": 368
+      },
+      {
+        "id": "6:5169",
+        "name": "09_OTHER_B_ITEM_03",
+        "type": "FRAME",
+        "x": -693.7010498046875,
+        "y": 9682.5,
+        "width": 654.8042602539062,
+        "height": 368
+      },
+      {
+        "id": "6:5171",
+        "name": "09_OTHER_B_ITEM_01",
+        "type": "FRAME",
+        "x": -2002,
+        "y": 9682.5,
+        "width": 654.8042602539062,
+        "height": 368
+      },
+      {
+        "id": "6:5173",
+        "name": "09_OTHER_B_ITEM_02",
+        "type": "FRAME",
+        "x": -1347.19580078125,
+        "y": 9682.5,
+        "width": 653.4946899414062,
+        "height": 368
+      },
+      {
+        "id": "6:5175",
+        "name": "09_OTHER_B_ITEM_08",
+        "type": "FRAME",
+        "x": 2580.3203125,
+        "y": 9682.5,
+        "width": 654.8042602539062,
+        "height": 368
+      },
+      {
+        "id": "6:5177",
+        "name": "09_OTHER_B_ITEM_09",
+        "type": "FRAME",
+        "x": 3235.12451171875,
+        "y": 9682.5,
+        "width": 654.8042602539062,
+        "height": 368
+      },
+      {
+        "id": "6:5179",
+        "name": "09_OTHER_B_ITEM_10",
+        "type": "FRAME",
+        "x": 3889.9287109375,
+        "y": 9682.5,
+        "width": 654.8042602539062,
+        "height": 368
+      },
+      {
+        "id": "6:5181",
+        "name": "09_OTHER_B_ITEM_11",
+        "type": "FRAME",
+        "x": 4544.732421875,
+        "y": 9682.5,
+        "width": 654.8042602539062,
+        "height": 368
+      },
+      {
+        "id": "6:5183",
+        "name": "Frame 13",
+        "type": "FRAME",
+        "x": 5199.537109375,
+        "y": 9682.5,
+        "width": 654.8042602539062,
+        "height": 368
+      },
+      {
+        "id": "6:5185",
+        "name": "09_OTHER_B_ITEM_13",
+        "type": "FRAME",
+        "x": 5854.341796875,
+        "y": 9682.5,
+        "width": 654.8042602539062,
+        "height": 368
+      },
+      {
+        "id": "6:5187",
+        "name": "09_OTHER_B_ITEM_14",
+        "type": "FRAME",
+        "x": 6509.1455078125,
+        "y": 9682.5,
+        "width": 654.8042602539062,
+        "height": 368
+      },
+      {
+        "id": "6:5189",
+        "name": "09_OTHER_B_ITEM_15",
+        "type": "FRAME",
+        "x": 7163.9501953125,
+        "y": 9682.5,
+        "width": 654.8042602539062,
+        "height": 368
+      },
+      {
+        "id": "6:5217",
+        "name": "09_OTHER_STRIP_D",
+        "type": "FRAME",
+        "x": -2002,
+        "y": 14149,
+        "width": 7360,
+        "height": 368
+      },
+      {
+        "id": "6:5218",
+        "name": "09_OTHER_D_ITEM_01",
+        "type": "FRAME",
+        "x": -2002,
+        "y": 15265,
+        "width": 368,
+        "height": 368
+      },
+      {
+        "id": "6:5220",
+        "name": "09_OTHER_D_ITEM_02",
+        "type": "FRAME",
+        "x": -1634,
+        "y": 15265,
+        "width": 736,
+        "height": 368
+      },
+      {
+        "id": "6:5222",
+        "name": "Portfolio 曹雨晨_11 3",
+        "type": "RECTANGLE",
+        "x": -898,
+        "y": 15265,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "6:5223",
+        "name": "09_OTHER_D_ITEM_03",
+        "type": "FRAME",
+        "x": -898,
+        "y": 15265,
+        "width": 736,
+        "height": 368
+      },
+      {
+        "id": "6:5225",
+        "name": "09_OTHER_D_ITEM_04",
+        "type": "FRAME",
+        "x": -162,
+        "y": 15265,
+        "width": 736,
+        "height": 368
+      },
+      {
+        "id": "6:5227",
+        "name": "09_OTHER_D_ITEM_05",
+        "type": "FRAME",
+        "x": 574,
+        "y": 15265,
+        "width": 736,
+        "height": 368
+      },
+      {
+        "id": "6:5229",
+        "name": "09_OTHER_D_ITEM_06",
+        "type": "FRAME",
+        "x": 1310,
+        "y": 15265,
+        "width": 736,
+        "height": 368
+      },
+      {
+        "id": "6:5231",
+        "name": "09_OTHER_D_ITEM_07",
+        "type": "FRAME",
+        "x": 2046,
+        "y": 15265,
+        "width": 736,
+        "height": 368
+      },
+      {
+        "id": "6:5233",
+        "name": "09_OTHER_D_ITEM_08",
+        "type": "FRAME",
+        "x": 2782,
+        "y": 15265,
+        "width": 736,
+        "height": 368
+      },
+      {
+        "id": "6:5235",
+        "name": "09_OTHER_D_ITEM_09",
+        "type": "FRAME",
+        "x": 3518,
+        "y": 15265,
+        "width": 736,
+        "height": 368
+      },
+      {
+        "id": "6:5237",
+        "name": "09_OTHER_D_ITEM_10",
+        "type": "FRAME",
+        "x": 4254,
+        "y": 15265,
+        "width": 736,
+        "height": 368
+      },
+      {
+        "id": "6:5239",
+        "name": "09_OTHER_D_ITEM_11",
+        "type": "FRAME",
+        "x": 4990,
+        "y": 15265,
+        "width": 368,
+        "height": 368
+      },
+      {
+        "id": "6:5204",
+        "name": "Portfolio 曹雨晨_12 2",
+        "type": "RECTANGLE",
+        "x": -6981,
+        "y": 27795,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "6:5271",
+        "name": "09_OTHER_STRIP_C",
+        "type": "FRAME",
+        "x": -2033,
+        "y": 10651,
+        "width": 9836.435546875,
+        "height": 368
+      },
+      {
+        "id": "6:5272",
+        "name": "09_OTHER_C_ITEM_01",
+        "type": "FRAME",
+        "x": -2002,
+        "y": 11916,
+        "width": 699.88330078125,
+        "height": 368
+      },
+      {
+        "id": "6:5274",
+        "name": "09_OTHER_C_ITEM_02",
+        "type": "FRAME",
+        "x": -1299.1884765625,
+        "y": 11916,
+        "width": 699.88330078125,
+        "height": 368
+      },
+      {
+        "id": "6:5276",
+        "name": "09_OTHER_C_ITEM_03",
+        "type": "FRAME",
+        "x": -596.376953125,
+        "y": 11916,
+        "width": 699.88330078125,
+        "height": 368
+      },
+      {
+        "id": "6:5278",
+        "name": "09_OTHER_C_ITEM_04",
+        "type": "FRAME",
+        "x": 106.4345703125,
+        "y": 11916,
+        "width": 699.88330078125,
+        "height": 368
+      },
+      {
+        "id": "6:5280",
+        "name": "09_OTHER_C_ITEM_05",
+        "type": "FRAME",
+        "x": 809.2451171875,
+        "y": 11916,
+        "width": 699.88330078125,
+        "height": 368
+      },
+      {
+        "id": "6:5282",
+        "name": "09_OTHER_C_ITEM_06",
+        "type": "FRAME",
+        "x": 1512.0576171875,
+        "y": 11916,
+        "width": 699.88330078125,
+        "height": 368
+      },
+      {
+        "id": "6:5284",
+        "name": "09_OTHER_C_ITEM_07",
+        "type": "FRAME",
+        "x": 2214.869140625,
+        "y": 11916,
+        "width": 699.88330078125,
+        "height": 368
+      },
+      {
+        "id": "6:5286",
+        "name": "09_OTHER_C_ITEM_08",
+        "type": "FRAME",
+        "x": 2917.6806640625,
+        "y": 11916,
+        "width": 699.88330078125,
+        "height": 368
+      },
+      {
+        "id": "6:5288",
+        "name": "09_OTHER_C_ITEM_09",
+        "type": "FRAME",
+        "x": 3620.4921875,
+        "y": 11916,
+        "width": 699.88330078125,
+        "height": 368
+      },
+      {
+        "id": "6:5290",
+        "name": "09_OTHER_C_ITEM_10",
+        "type": "FRAME",
+        "x": 4323.3037109375,
+        "y": 11916,
+        "width": 699.88330078125,
+        "height": 368
+      },
+      {
+        "id": "6:5292",
+        "name": "09_OTHER_C_ITEM_11",
+        "type": "FRAME",
+        "x": 5026.1171875,
+        "y": 11916,
+        "width": 699.88330078125,
+        "height": 368
+      },
+      {
+        "id": "6:5294",
+        "name": "09_OTHER_C_ITEM_12",
+        "type": "FRAME",
+        "x": 5728.9296875,
+        "y": 11916,
+        "width": 699.88330078125,
+        "height": 368
+      },
+      {
+        "id": "6:5296",
+        "name": "09_OTHER_C_ITEM_13",
+        "type": "FRAME",
+        "x": 6431.7421875,
+        "y": 11916,
+        "width": 699.88330078125,
+        "height": 368
+      },
+      {
+        "id": "6:5298",
+        "name": "09_OTHER_C_ITEM_14",
+        "type": "FRAME",
+        "x": 7134.5546875,
+        "y": 11916,
+        "width": 699.88330078125,
+        "height": 368
+      }
+    ]
+  }
+]

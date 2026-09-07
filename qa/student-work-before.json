@@ -1,0 +1,529 @@
+[
+  {
+    "class": "about-layer",
+    "asset": "03_ABOUT_BLUE_CARD_HOLE_EDGE",
+    "rect": {
+      "x": 179,
+      "y": 27,
+      "width": 1332,
+      "height": 860
+    },
+    "css": {
+      "opacity": "1",
+      "transform": "none",
+      "font": "16px \"Glow Sans SC\", \"Microsoft YaHei\", \"PingFang SC\", sans-serif",
+      "color": "rgb(78, 78, 77)",
+      "zIndex": "auto",
+      "letterSpacing": "normal"
+    },
+    "text": ""
+  },
+  {
+    "class": "about-layer",
+    "asset": "03_ABOUT_FOLDER_KRAFT_BACK",
+    "rect": {
+      "x": -12,
+      "y": 108,
+      "width": 680.375,
+      "height": 699
+    },
+    "css": {
+      "opacity": "1",
+      "transform": "none",
+      "font": "16px \"Glow Sans SC\", \"Microsoft YaHei\", \"PingFang SC\", sans-serif",
+      "color": "rgb(78, 78, 77)",
+      "zIndex": "auto",
+      "letterSpacing": "normal"
+    },
+    "text": ""
+  },
+  {
+    "class": "about-layer",
+    "asset": "03_ABOUT_BLUE_CARD_BG",
+    "rect": {
+      "x": 32.015625,
+      "y": 150.40625,
+      "width": 600.015625,
+      "height": 602
+    },
+    "css": {
+      "opacity": "1",
+      "transform": "none",
+      "font": "16px \"Glow Sans SC\", \"Microsoft YaHei\", \"PingFang SC\", sans-serif",
+      "color": "rgb(78, 78, 77)",
+      "zIndex": "auto",
+      "letterSpacing": "normal"
+    },
+    "text": ""
+  },
+  {
+    "class": "about-layer",
+    "asset": "03_ABOUT_PROFILE_PHOTO",
+    "rect": {
+      "x": 157.75,
+      "y": 206.3125,
+      "width": 214.921875,
+      "height": 243.65625
+    },
+    "css": {
+      "opacity": "1",
+      "transform": "none",
+      "font": "16px \"Glow Sans SC\", \"Microsoft YaHei\", \"PingFang SC\", sans-serif",
+      "color": "rgb(78, 78, 77)",
+      "zIndex": "auto",
+      "letterSpacing": "normal"
+    },
+    "text": ""
+  },
+  {
+    "class": "about-copy ",
+    "node": "3:174",
+    "rect": {
+      "x": 396.640625,
+      "y": 198.625,
+      "width": 120.4375,
+      "height": 38.390625
+    },
+    "css": {
+      "opacity": "1",
+      "transform": "none",
+      "font": "30.7252px / 38.4064px \"Glow Sans SC\", \"Microsoft YaHei\", \"PingFang SC\", sans-serif",
+      "color": "rgba(59, 58, 56, 0.92)",
+      "zIndex": "auto",
+      "letterSpacing": "normal"
+    },
+    "text": "曹雨晨"
+  },
+  {
+    "class": "about-copy ",
+    "node": "3:175",
+    "rect": {
+      "x": 396.640625,
+      "y": 243.1875,
+      "width": 120.4375,
+      "height": 30.71875
+    },
+    "css": {
+      "opacity": "1",
+      "transform": "none",
+      "font": "24.5801px / 30.7252px \"Glow Sans SC\", \"Microsoft YaHei\", \"PingFang SC\", sans-serif",
+      "color": "rgba(59, 58, 56, 0.92)",
+      "zIndex": "auto",
+      "letterSpacing": "normal"
+    },
+    "text": "浙江大学"
+  },
+  {
+    "class": "about-copy ",
+    "node": "3:176",
+    "rect": {
+      "x": 157.75,
+      "y": 488.984375,
+      "width": 135.953125,
+      "height": 23.046875
+    },
+    "css": {
+      "opacity": "1",
+      "transform": "none",
+      "font": "18.4351px / 23.0439px \"Glow Sans SC\", \"Microsoft YaHei\", \"PingFang SC\", sans-serif",
+      "color": "rgba(59, 58, 56, 0.92)",
+      "zIndex": "auto",
+      "letterSpacing": "normal"
+    },
+    "text": "艺术与科技"
+  },
+  {
+    "class": "about-copy ",
+    "node": "3:177",
+    "rect": {
+      "x": 402.78125,
+      "y": 488.984375,
+      "width": 135.953125,
+      "height": 23.046875
+    },
+    "css": {
+      "opacity": "1",
+      "transform": "none",
+      "font": "18.4351px / 23.0439px \"Glow Sans SC\", \"Microsoft YaHei\", \"PingFang SC\", sans-serif",
+      "color": "rgba(59, 58, 56, 0.92)",
+      "zIndex": "auto",
+      "letterSpacing": "normal"
+    },
+    "text": "政治面貌"
+  },
+  {
+    "class": "about-copy ",
+    "node": "3:178",
+    "rect": {
+      "x": 157.75,
+      "y": 541.21875,
+      "width": 151.3125,
+      "height": 23.046875
+    },
+    "css": {
+      "opacity": "1",
+      "transform": "none",
+      "font": "18.4351px / 23.0439px \"Glow Sans SC\", \"Microsoft YaHei\", \"PingFang SC\", sans-serif",
+      "color": "rgba(59, 58, 56, 0.92)",
+      "zIndex": "auto",
+      "letterSpacing": "normal"
+    },
+    "text": "主修绩点：4.62"
+  },
+  {
+    "class": "about-copy ",
+    "node": "3:179",
+    "rect": {
+      "x": 157.75,
+      "y": 567.328125,
+      "width": 151.3125,
+      "height": 23.046875
+    },
+    "css": {
+      "opacity": "1",
+      "transform": "none",
+      "font": "18.4351px / 23.0439px \"Glow Sans SC\", \"Microsoft YaHei\", \"PingFang SC\", sans-serif",
+      "color": "rgba(59, 58, 56, 0.92)",
+      "zIndex": "auto",
+      "letterSpacing": "normal"
+    },
+    "text": "综合排名：6/29"
+  },
+  {
+    "class": "about-copy ",
+    "node": "3:180",
+    "rect": {
+      "x": 157.75,
+      "y": 646.453125,
+      "width": 336.4375,
+      "height": 46.09375
+    },
+    "css": {
+      "opacity": "1",
+      "transform": "none",
+      "font": "18.4351px / 23.0439px \"Glow Sans SC\", \"Microsoft YaHei\", \"PingFang SC\", sans-serif",
+      "color": "rgba(59, 58, 56, 0.92)",
+      "zIndex": "auto",
+      "letterSpacing": "normal"
+    },
+    "text": "设计认知 / AI数字人格 / 人机协同 / 用户体验/视觉传达"
+  },
+  {
+    "class": "about-copy ",
+    "node": "3:181",
+    "rect": {
+      "x": 157.75,
+      "y": 515.09375,
+      "width": 178.96875,
+      "height": 23.046875
+    },
+    "css": {
+      "opacity": "1",
+      "transform": "none",
+      "font": "18.4351px / 23.0439px \"Glow Sans SC\", \"Microsoft YaHei\", \"PingFang SC\", sans-serif",
+      "color": "rgba(59, 58, 56, 0.92)",
+      "zIndex": "auto",
+      "letterSpacing": "normal"
+    },
+    "text": "综合绩点：4.533/5"
+  },
+  {
+    "class": "about-copy ",
+    "node": "3:182",
+    "rect": {
+      "x": 402.78125,
+      "y": 515.09375,
+      "width": 178.96875,
+      "height": 23.046875
+    },
+    "css": {
+      "opacity": "1",
+      "transform": "none",
+      "font": "18.4351px / 23.0439px \"Glow Sans SC\", \"Microsoft YaHei\", \"PingFang SC\", sans-serif",
+      "color": "rgba(59, 58, 56, 0.92)",
+      "zIndex": "auto",
+      "letterSpacing": "normal"
+    },
+    "text": "预备党员"
+  },
+  {
+    "class": "about-copy ",
+    "node": "3:183",
+    "rect": {
+      "x": 157.75,
+      "y": 619.5625,
+      "width": 82,
+      "height": 23.046875
+    },
+    "css": {
+      "opacity": "1",
+      "transform": "none",
+      "font": "18.4351px / 23.0439px \"Glow Sans SC\", \"Microsoft YaHei\", \"PingFang SC\", sans-serif",
+      "color": "rgba(59, 58, 56, 0.92)",
+      "zIndex": "auto",
+      "letterSpacing": "normal"
+    },
+    "text": "研究兴趣"
+  },
+  {
+    "class": "about-copy ",
+    "node": "3:187",
+    "rect": {
+      "x": 642.40625,
+      "y": 291.828125,
+      "width": 202.765625,
+      "height": 21.109375
+    },
+    "css": {
+      "opacity": "1",
+      "transform": "none",
+      "font": "16.8976px / 21.122px \"Glow Sans SC\", \"Microsoft YaHei\", \"PingFang SC\", sans-serif",
+      "color": "rgba(59, 58, 56, 0.92)",
+      "zIndex": "auto",
+      "letterSpacing": "normal"
+    },
+    "text": "设计认知与用户理解"
+  },
+  {
+    "class": "about-copy about-bullet-heading",
+    "node": "3:188",
+    "rect": {
+      "x": 641.5625,
+      "y": 231.84375,
+      "width": 631.96875,
+      "height": 25.34375
+    },
+    "css": {
+      "opacity": "1",
+      "transform": "none",
+      "font": "20.2771px / 25.3464px \"Glow Sans SC\", \"Microsoft YaHei\", \"PingFang SC\", sans-serif",
+      "color": "rgba(59, 58, 56, 0.92)",
+      "zIndex": "auto",
+      "letterSpacing": "normal"
+    },
+    "text": "浙江大学人工智能学院 · IABC实验室"
+  },
+  {
+    "class": "about-copy ",
+    "node": "3:189",
+    "rect": {
+      "x": 642.40625,
+      "y": 317.171875,
+      "width": 475.65625,
+      "height": 27.4375
+    },
+    "css": {
+      "opacity": "1",
+      "transform": "none",
+      "font": "10.9834px / 13.7293px \"Glow Sans SC\", \"Microsoft YaHei\", \"PingFang SC\", sans-serif",
+      "color": "rgba(59, 58, 56, 0.92)",
+      "zIndex": "auto",
+      "letterSpacing": "normal"
+    },
+    "text": "围绕用户在设计与交互过程中的认知差异、信息理解与行为反馈展开研究，通过实验与问卷等方法，将抽象的用户认知特征转化为可观察、可分析的信息。"
+  },
+  {
+    "class": "about-copy ",
+    "node": "3:190",
+    "rect": {
+      "x": 642.40625,
+      "y": 356.046875,
+      "width": 202.765625,
+      "height": 21.109375
+    },
+    "css": {
+      "opacity": "1",
+      "transform": "none",
+      "font": "16.8976px / 21.122px \"Glow Sans SC\", \"Microsoft YaHei\", \"PingFang SC\", sans-serif",
+      "color": "rgba(59, 58, 56, 0.92)",
+      "zIndex": "auto",
+      "letterSpacing": "normal"
+    },
+    "text": "AI数字人格与人格链"
+  },
+  {
+    "class": "about-copy ",
+    "node": "3:191",
+    "rect": {
+      "x": 642.40625,
+      "y": 381,
+      "width": 476,
+      "height": 27.4375
+    },
+    "css": {
+      "opacity": "1",
+      "transform": "none",
+      "font": "10.9834px / 13.7293px \"Glow Sans SC\", \"Microsoft YaHei\", \"PingFang SC\", sans-serif",
+      "color": "rgba(59, 58, 56, 0.92)",
+      "zIndex": "auto",
+      "letterSpacing": "normal"
+    },
+    "text": "参与人格化AI交互研究，以大五人格维度 × 场景任务类型为基础，探索从人格特征到实际交互行为的连续映射，撰写人格连设计报告。"
+  },
+  {
+    "class": "about-copy about-heading",
+    "node": "3:198",
+    "rect": {
+      "x": 635,
+      "y": 182,
+      "width": 132.46875,
+      "height": 36.046875
+    },
+    "css": {
+      "opacity": "1",
+      "transform": "none",
+      "font": "500 27.0361px / 33.7952px \"Glow Sans SC\", \"Microsoft YaHei\", \"PingFang SC\", sans-serif",
+      "color": "rgba(0, 0, 0, 0)",
+      "zIndex": "auto",
+      "letterSpacing": "normal"
+    },
+    "text": "科研经历"
+  },
+  {
+    "class": "about-copy ",
+    "node": "3:199",
+    "rect": {
+      "x": 632.265625,
+      "y": 261.40625,
+      "width": 349.765625,
+      "height": 21.109375
+    },
+    "css": {
+      "opacity": "1",
+      "transform": "none",
+      "font": "16.8976px / 21.122px \"Glow Sans SC\", \"Microsoft YaHei\", \"PingFang SC\", sans-serif",
+      "color": "rgba(59, 58, 56, 0.92)",
+      "zIndex": "auto",
+      "letterSpacing": "normal"
+    },
+    "text": "（前计算机学院设计学）"
+  },
+  {
+    "class": "about-copy about-heading",
+    "node": "3:207",
+    "rect": {
+      "x": 1176,
+      "y": 182,
+      "width": 136.6875,
+      "height": 60.9375
+    },
+    "css": {
+      "opacity": "1",
+      "transform": "none",
+      "font": "500 27.8601px / 34.8252px \"Glow Sans SC\", \"Microsoft YaHei\", \"PingFang SC\", sans-serif",
+      "color": "rgba(0, 0, 0, 0)",
+      "zIndex": "auto",
+      "letterSpacing": "normal"
+    },
+    "text": "专业技能"
+  },
+  {
+    "class": "about-copy ",
+    "node": "22:9",
+    "rect": {
+      "x": 642,
+      "y": 422,
+      "width": 486,
+      "height": 17.5
+    },
+    "css": {
+      "opacity": "1",
+      "transform": "none",
+      "font": "14px / 17.5px \"Glow Sans SC\", \"Microsoft YaHei\", \"PingFang SC\", sans-serif",
+      "color": "rgba(59, 58, 56, 0.92)",
+      "zIndex": "auto",
+      "letterSpacing": "normal"
+    },
+    "text": "“面向玩具产品的大型直播选品中心运营系统研发及应用”子课题组"
+  },
+  {
+    "class": "about-publications",
+    "rect": {
+      "x": 642,
+      "y": 464,
+      "width": 480,
+      "height": 283.28125
+    },
+    "css": {
+      "opacity": "1",
+      "transform": "none",
+      "font": "11.83px / 17.1535px \"Glow Sans SC\", \"Microsoft YaHei\", \"PingFang SC\", sans-serif",
+      "color": "rgb(78, 78, 77)",
+      "zIndex": "auto",
+      "letterSpacing": "normal"
+    },
+    "text": "论文投稿中（Advanced Engineering Informatics ）CogStyle: Simulating cognitive styles for GenAI and investigating cognitive style matching with designers under different levels of design task constraintXiyuan Zhang, Jinyu Gu, Ningfeng Tang, Yuchen Cao, Yang Yin, Huiting Liu, Zhibin Zhou, Chunlei Chai, and Hao Fan待投稿LLM-enabled real-time design fixation monitoring and cognitive regulationXiyuan Zhang, Ningfeng Tang, Aoyi Shen, Huiting Liu, Yuchen Cao, Yang Yin, Zhibin Zhou, Chunlei Chai*, and Hao Fan国家级大学生创新训练计划项目结题审批通过"
+  },
+  {
+    "class": "about-skills",
+    "rect": {
+      "x": 1183,
+      "y": 236,
+      "width": 250,
+      "height": 198
+    },
+    "css": {
+      "opacity": "1",
+      "transform": "none",
+      "font": "12px / 18px \"Glow Sans SC\", \"Microsoft YaHei\", \"PingFang SC\", sans-serif",
+      "color": "rgb(78, 78, 77)",
+      "zIndex": "auto",
+      "letterSpacing": "normal"
+    },
+    "text": "设计服务设计 / 用户研究 / 交互设计界面设计 / 信息可视化 / 视觉设计AI与数字实践生成式人工智能 / 提示词设计Vibe Coding / AI辅助原型开发软件Figma / ChatGPT / CodexPhotoshop / Canvas / Tobii"
+  },
+  {
+    "class": "about-contact",
+    "rect": {
+      "x": 1195.9888916015625,
+      "y": 475.9889221191406,
+      "width": 353.756591796875,
+      "height": 353.7565002441406
+    },
+    "css": {
+      "opacity": "1",
+      "transform": "matrix(0.998049, 0.0624421, -0.0624421, 0.998049, 0, 0)",
+      "font": "16px \"Glow Sans SC\", \"Microsoft YaHei\", \"PingFang SC\", sans-serif",
+      "color": "rgb(78, 78, 77)",
+      "zIndex": "auto",
+      "letterSpacing": "normal"
+    },
+    "text": "TEL13913902786E-mail2131688946@qq.com"
+  },
+  {
+    "class": "about-title",
+    "rect": {
+      "x": 1119.0892333984375,
+      "y": 683.9946899414062,
+      "width": 416.055908203125,
+      "height": 97.3074951171875
+    },
+    "css": {
+      "opacity": "1",
+      "transform": "matrix(0.997314, -0.0732382, 0.0732382, 0.997314, 0, 0)",
+      "font": "700 32px \"Glow Sans SC\", \"Microsoft YaHei\", \"PingFang SC\", sans-serif",
+      "color": "rgb(78, 78, 77)",
+      "zIndex": "auto",
+      "letterSpacing": "normal"
+    },
+    "text": ""
+  },
+  {
+    "class": "about-browse-projects",
+    "rect": {
+      "x": 1335.796875,
+      "y": 772,
+      "width": 144.203125,
+      "height": 44
+    },
+    "css": {
+      "opacity": "1",
+      "transform": "none",
+      "font": "17px \"Glow Sans SC\", \"Microsoft YaHei\", \"PingFang SC\", sans-serif",
+      "color": "rgb(78, 78, 77)",
+      "zIndex": "auto",
+      "letterSpacing": "1.02px"
+    },
+    "text": "阅览我的项目 →"
+  }
+]

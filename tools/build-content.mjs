@@ -1,0 +1,11 @@
+import fs from 'node:fs/promises';
+const content=JSON.parse(await fs.readFile('content/projects.example.json','utf8'));
+const copy=await fs.readFile('09_CONTENT_COPY.md','utf8');
+const sections=copy.split('\n## ').slice(1);
+const get=(section,label)=>section.split(`**${label}**`)[1]?.trim().split(/\r?\n\s*\r?\n/)[0]?.trim()||'';
+const urls=['https://wowochenzi.github.io/Pawtern/','https://www.wanghuaisen.com/','https://wowochenzi.github.io/nuo-field/','https://liuyiling021122-jpg.github.io/visual-analysis/'];
+const demos=['assets/media/pawtern-demo.mp4','assets/media/woodlab-demo.mp4','assets/media/nuofield-demo.mp4','assets/media/beeflow-demo.mp4'];
+const demoSizes=[[544,1184],[4438,2160],[1920,1080],[2552,1240]];
+content.projects.forEach((p,i)=>{p.demoSrc=demos[i];p.demoSize=demoSizes[i];p.externalUrl=urls[i];p.description=get(sections[i],'短说明');p.demoDescription=get(sections[i],'Demo 说明');p.subtitle=get(sections[i],'副标题');p.pages=Array.from({length:p.pageCount},(_,j)=>`${String(i+5).padStart(2,'0')}_${p.id.toUpperCase()}_BOOK_PAGE_${String(j+1).padStart(2,'0')}`);});
+content.other={A:{title:'东一品牌焕新策略全案',description:get(sections[4],'说明')},B:{title:'香印香氛疗愈丝巾',description:get(sections[5],'说明')}};
+await fs.writeFile('content/projects.json',JSON.stringify(content,null,2)+'\n');

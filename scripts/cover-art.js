@@ -1,0 +1,2 @@
+import{img}from'./shared.js';
+export function coverMarkup(){return `<div class="cover-papers">${img('01_COVER_FOLDER_INNER_PAPER','cover-inner')}</div><div class="cover-face">${img('raw-cover-imgChatGptImage2026941452342','cover-folder')} ${img('cover-clip-01','cover-clip clip-1')} ${img('cover-clip-03','cover-clip clip-3')} ${img('cover-clip-02','cover-clip clip-2')} ${img('cover-print','cover-print','Portfolio')}<button class="cover-open">点击打开曹雨晨的档案 <span aria-hidden="true">→</span></button></div>`;}

@@ -1,0 +1,11 @@
+{
+  "checks": [
+    "Nuo soundtrack decodes with sound enabled; simulated autoplay rejection recovers after clicking play",
+    "woodlab: pause survives scrolling, play/seek/volume/mute/loop work, crop preserves pixel proportions",
+    "nuofield: pause survives scrolling, play/seek/volume/mute/loop work, crop preserves pixel proportions",
+    "beeflow: pause survives scrolling, play/seek/volume/mute/loop work, crop preserves pixel proportions",
+    "PAWTERN remains automatic, silent, looping, with no manual controls",
+    "Phone landscape controls fit without horizontal overflow"
+  ],
+  "errors": []
+}

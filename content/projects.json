@@ -1,0 +1,150 @@
+{
+  "siteTitle": "曹雨晨的PORTFOLIO",
+  "projects": [
+    {
+      "id": "pawtern",
+      "title": "PAWTERN 爪织",
+      "category": "服务设计",
+      "keywords": [
+        "循环设计",
+        "用户体验",
+        "共创设计"
+      ],
+      "pageCount": 18,
+      "demoType": "phone",
+      "demoSrc": "assets/media/pawtern-demo.mp4",
+      "demoSize": [2160, 4702],
+      "externalUrl": "https://wowochenzi.github.io/Pawtern/",
+      "description": "PAWTERN 从儿童旧衣闲置与宠物服饰需求之间的连接出发，将旧衣回收、清洁筛选、DIY 材料包、线上平台与线下共创整合为完整服务系统，让承载家庭记忆的旧衣以新的方式重新进入日常生活。",
+      "demoDescription": "项目围绕“回收—处理—再设计—共创—反馈”的循环路径展开，通过线上平台串联旧衣回收、材料包获取、DIY 指导与用户成就反馈，并结合线下工坊与品牌合作场景，形成从旧衣进入系统到再次被使用的完整体验闭环。",
+      "subtitle": "",
+      "pages": [
+        "05_PAWTERN_BOOK_PAGE_01",
+        "05_PAWTERN_BOOK_PAGE_02",
+        "05_PAWTERN_BOOK_PAGE_03",
+        "05_PAWTERN_BOOK_PAGE_04",
+        "05_PAWTERN_BOOK_PAGE_05",
+        "05_PAWTERN_BOOK_PAGE_06",
+        "05_PAWTERN_BOOK_PAGE_07",
+        "05_PAWTERN_BOOK_PAGE_08",
+        "05_PAWTERN_BOOK_PAGE_09",
+        "05_PAWTERN_BOOK_PAGE_10",
+        "05_PAWTERN_BOOK_PAGE_11",
+        "05_PAWTERN_BOOK_PAGE_12",
+        "05_PAWTERN_BOOK_PAGE_13",
+        "05_PAWTERN_BOOK_PAGE_14",
+        "05_PAWTERN_BOOK_PAGE_15",
+        "05_PAWTERN_BOOK_PAGE_16",
+        "05_PAWTERN_BOOK_PAGE_17",
+        "05_PAWTERN_BOOK_PAGE_18"
+      ]
+    },
+    {
+      "id": "woodlab",
+      "title": "WoodLab 木玩工坊",
+      "category": "智能产品设计",
+      "keywords": [
+        "人机协同",
+        "交互设计",
+        "AI工作流"
+      ],
+      "pageCount": 10,
+      "demoType": "video",
+      "demoSrc": "assets/media/woodlab-demo.mp4",
+      "demoSize": [4438, 2160],
+      "demoCrop": [2, 2, 6, 2],
+      "externalUrl": "https://www.wanghuaisen.com/",
+      "description": "WoodLab 是一套面向设计学生与产品设计者的 AI 辅助木制玩具设计系统，将需求理解、方案生成、设计深化、多视图确认与三维模型生成串联为连续工作流，使生成式 AI 从单次出图工具转变为可持续参与设计过程的协作角色。",
+      "demoDescription": "系统通过结构化需求、设计约束与 Design Memory 保存设计过程中的关键状态，在方案生成、图像迭代与多视图确认之间建立清晰的版本链，并进一步连接三维模型生成与资产沉淀；项目同时通过 Vibe Coding 将交互方案开发为可运行的数字产品原型。",
+      "subtitle": "",
+      "pages": [
+        "06_WOODLAB_BOOK_PAGE_01",
+        "06_WOODLAB_BOOK_PAGE_02",
+        "06_WOODLAB_BOOK_PAGE_03",
+        "06_WOODLAB_BOOK_PAGE_04",
+        "06_WOODLAB_BOOK_PAGE_05",
+        "06_WOODLAB_BOOK_PAGE_06",
+        "06_WOODLAB_BOOK_PAGE_07",
+        "06_WOODLAB_BOOK_PAGE_08",
+        "06_WOODLAB_BOOK_PAGE_09",
+        "06_WOODLAB_BOOK_PAGE_10"
+      ]
+    },
+    {
+      "id": "nuofield",
+      "title": "NuoFeild 傩场",
+      "category": "Vibe Designing",
+      "keywords": [
+        "交互设计",
+        "数字遗产",
+        "沉浸体验"
+      ],
+      "pageCount": 8,
+      "demoType": "video",
+      "demoSrc": "assets/media/nuofield-demo-web.mp4",
+      "demoSize": [1920, 1080],
+      "demoAudio": true,
+      "externalUrl": "https://wowochenzi.github.io/nuo-field/",
+      "description": "傩场以傩面具、仪式、纹样及其文化语义为线索，将传统傩文化重新组织为可探索、可交互的数字体验，让文化内容从静态展示转向能够被主动进入、理解与感知的数字场域。",
+      "demoDescription": "项目从傩文化的历史语境与视觉符号出发，通过信息结构、数字重构与交互体验设计建立新的文化观看路径，使用户能够在数字空间中探索面具、纹样与仪式之间的关联。",
+      "subtitle": "",
+      "pages": [
+        "07_NUOFIELD_BOOK_PAGE_01",
+        "07_NUOFIELD_BOOK_PAGE_02",
+        "07_NUOFIELD_BOOK_PAGE_03",
+        "07_NUOFIELD_BOOK_PAGE_04",
+        "07_NUOFIELD_BOOK_PAGE_05",
+        "07_NUOFIELD_BOOK_PAGE_06",
+        "07_NUOFIELD_BOOK_PAGE_07",
+        "07_NUOFIELD_BOOK_PAGE_08"
+      ]
+    },
+    {
+      "id": "beeflow",
+      "title": "追花为生",
+      "category": "信息数据可视化",
+      "keywords": [
+        "信息设计",
+        "数字叙事",
+        "人与自然"
+      ],
+      "pageCount": 8,
+      "demoType": "video",
+      "demoSrc": "assets/media/beeflow-demo.mp4",
+      "demoSize": [2552, 1240],
+      "demoCrop": [2, 2, 4, 2],
+      "externalUrl": "https://liuyiling021122-jpg.github.io/visual-analysis/",
+      "description": "《追花为生》以中国流动养蜂人的迁徙路径与生计方式为研究对象，将花期、空间迁徙、停留时间、环境条件与采蜜节律转化为交互式数据叙事，呈现一套随自然周期不断移动的生活系统。",
+      "demoDescription": "项目通过地图、时间与数据关系的多尺度组织，把蜂农“追随花期移动”的生活方式转化为可阅读、可比较的数字体验，使用户既能观察宏观迁徙路线，也能进入具体停留节点理解环境、花期与生计风险之间的动态关系。",
+      "subtitle": "中国流动养蜂人的迁徙、授粉与生计风险可视分析系统",
+      "pages": [
+        "08_BEEFLOW_BOOK_PAGE_01",
+        "08_BEEFLOW_BOOK_PAGE_02",
+        "08_BEEFLOW_BOOK_PAGE_03",
+        "08_BEEFLOW_BOOK_PAGE_04",
+        "08_BEEFLOW_BOOK_PAGE_05",
+        "08_BEEFLOW_BOOK_PAGE_06",
+        "08_BEEFLOW_BOOK_PAGE_07",
+        "08_BEEFLOW_BOOK_PAGE_08"
+      ]
+    }
+  ],
+  "other": {
+    "A": {
+      "title": "东一品牌焕新策略全案",
+      "description": "围绕东一品牌既有历史、行业语境与用户认知展开梳理，针对品牌形象老化与传播表达不足提出焕新策略，从品牌定位与叙事出发，延展至视觉识别、产品呈现与应用场景，形成完整的品牌更新概念方案。"
+    },
+    "C": {
+      "title": "AIGC插画创作｜泰和愈羽",
+      "description": "以东方诗意叙事为线索，借助 AIGC 将羽毛、月色、灯火等意象转化为连续视觉场景，通过统一的色彩、人物与氛围设定，探索生成式人工智能在系列插画、情绪营造与叙事表达中的应用。"
+    },
+    "D": {
+      "title": "空间构成｜自然 · 光影 · 鱼龙舞",
+      "description": "围绕自然形态、材料、光影与结构展开阶段性空间构成实验，从《自然的皮肤》《时间编织》逐步发展至灯具作品《鱼龙舞》。最终将传统鱼灯骨架与编织方式结合，通过结构重组与光影测试，探索材料形态、传统意象与空间光效之间的关系。"
+    },
+    "B": {
+      "title": "香印香氛疗愈丝巾",
+      "description": "项目围绕“香气 × 纺织 × 疗愈”展开，以丝巾作为香氛与情绪体验的载体，从用户需求、使用场景与商业价值出发，构建兼具佩戴、嗅觉体验与情感表达的产品概念，并形成对应的产品叙事与市场定位。"
+    }
+  }
+}

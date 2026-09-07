@@ -1,0 +1,4 @@
+import fs from 'node:fs/promises';
+let s=await fs.readFile('scripts/archive.js','utf8');s=s.replace('storage,reducedMotion}','storage,reducedMotion,creamPaper}').replace("${img('03_ABOUT_BLUE_CARD_HOLE_EDGE')}","${creamPaper()}").replace("${img('底部文件夹遮罩')}","${img('raw-archive-imgChatGptImage20269518430911')}");await fs.writeFile('scripts/archive.js',s);
+s=await fs.readFile('scripts/choose.js','utf8');s=s.replace("${img('02_FOLDER_NAV_FOLDER_'+key)}","<div class=\"nav-image-box\">${img('raw-choose-'+({HOME:'imgChatGptImage20269518430911',ABOUT:'imgChatGptImage20269518430922',CONTENT:'imgChatGptImage20269518430932'}[key]))}</div>");await fs.writeFile('scripts/choose.js',s);
+s=await fs.readFile('scripts/other.js','utf8');s=s.replace("${img('other-paper-'+k,'folder-paper')}","<div class=\"other-paper-crop\">${img('raw-other-'+({A:'img011',B:'img101',C:'img031',D:'img091'}[k]),'folder-paper')}</div>");await fs.writeFile('scripts/other.js',s);

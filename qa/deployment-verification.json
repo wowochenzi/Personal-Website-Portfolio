@@ -1,0 +1,10 @@
+{
+  "base": "http://localhost:5173/dist/index.html",
+  "checks": [
+    "Published-path title, raised Cover CTA, folder navigation, direct About refresh, Student Work and project journey.",
+    "All four project books turn; all four local videos decode at their original sizes; server byte ranges work.",
+    "Other Works A/B/C/D expand under the deployment subdirectory."
+  ],
+  "errors": [],
+  "localRequests": 122
+}

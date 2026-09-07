@@ -1,0 +1,14 @@
+{
+  "checks": [
+    "Cover opens Choose",
+    "All folder navigation routes",
+    "Archive drag, z-index, double click, return persistence, book keyboard",
+    "All 4 books have layers, working controls and external URLs",
+    "Other A/B/C/D expansion, persistent labels, collapse",
+    "Strip constant scrolling and hover pause",
+    "1920×1080, 1440×900, 1366×768, iPad 1024×768, phone 844×390",
+    "Phone and iPad portrait gate",
+    "Reduced-motion book turning"
+  ],
+  "errors": []
+}

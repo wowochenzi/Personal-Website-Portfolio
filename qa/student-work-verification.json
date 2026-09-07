@@ -1,0 +1,11 @@
+{
+  "checks": [
+    "Real kraft/tab hover opens; blank and blue card do not. Layers switch at 25%, text fades to .39, six groups stagger, Figma final x457/y96.",
+    "Close hides content before retraction, lowers at 75% of return path, restores opacity and removes animations; CTA geometry/style/text unchanged in every state.",
+    "Repeated keys are locked during transitions; Escape closes the folder without leaving About; keyboard focus restored.",
+    "All six landscape viewports: no horizontal overflow, unchanged and unobstructed CTA, open/close works.",
+    "Resize/reduced motion preserve state; original browse-projects animation and route work during opening/open/closing with full cleanup.",
+    "Touch tap opens exposed kraft and closes with return control; portrait rotation gate retained."
+  ],
+  "errors": []
+}

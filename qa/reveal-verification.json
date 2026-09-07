@@ -1,0 +1,11 @@
+{
+  "checks": [
+    "About: ordered sheets/photo, delayed line masks, <=2.1s, exact original final layout, no continuing motion",
+    "Choose exit remains continuous; About replays on reopening; browse-projects journey still reaches Archive",
+    "Archive: input blocked until landing, then directory/project drag and double-click work; return restores positions/z with no replay",
+    "Choose transitions cancel cleanly with Escape; subsequent navigation and reverse Home transition remain usable",
+    "All five landscape sizes fit; phone reveals finish under 1.5s",
+    "Reduced motion has no rotation/settling; portrait-to-landscape and mid-entry navigation clean up correctly"
+  ],
+  "errors": []
+}

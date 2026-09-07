@@ -1,0 +1,11 @@
+{
+  "checks": [
+    "Cover retains route while splitting, repeated clicks disabled",
+    "Folder hover -42px, inactive opacity 0.7",
+    "Spine hidden throughout turning frames, restored at rest",
+    "All four folders auto-center; A/B/C/D copy visible; local 2x images decoded at DPR2",
+    "HD strip loop stays 32–40 CSS px/s; hover pauses",
+    "Desktop, iPad and phone landscape auto-centering and no horizontal overflow"
+  ],
+  "errors": []
+}

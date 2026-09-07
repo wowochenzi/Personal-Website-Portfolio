@@ -1,0 +1,13 @@
+{
+  "checks": [
+    "Phone cover tap target >=44px and opens navigation",
+    "Touch archive opens book; one tap turns exactly one page",
+    "Native touch swipe turns page",
+    "Rotation preserves page and restores book",
+    "Browser back and forward restore scenes",
+    "Desktop click advances exactly one spread",
+    "124 manifest assets local; 44 book pages available"
+  ],
+  "errors": [],
+  "remote": []
+}
