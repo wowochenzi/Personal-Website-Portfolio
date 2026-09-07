@@ -22,13 +22,29 @@ for(const item of [...Object.values(assets).map(a=>a.path),...content.projects.m
  await fs.access(path.join(destination,item));
 }
 let total=0,count=0;
+async function checkStreaming(file){
+ const handle=await fs.open(file,'r');
+ try{
+  let offset=0,indexSeen=false;
+  for(let i=0;i<16;i++){
+   const header=Buffer.alloc(16),{bytesRead}=await handle.read(header,0,16,offset);
+   if(bytesRead<8)throw Error('Invalid MP4: '+file);
+   let size=header.readUInt32BE(0);const type=header.toString('ascii',4,8);
+   if(size===1)size=Number(header.readBigUInt64BE(8));
+   if(type==='moov')indexSeen=true;
+   if(type==='mdat'){if(!indexSeen)throw Error('MP4 needs faststart for web playback: '+file);return;}
+   if(size<8)break;offset+=size;
+  }
+  throw Error('MP4 media data missing: '+file);
+ }finally{await handle.close();}
+}
 async function inspect(dir){
  for(const item of await fs.readdir(dir,{withFileTypes:true})){
   const file=path.join(dir,item.name);
   if(item.isDirectory())await inspect(file);
-  else {const {size}=await fs.stat(file);total+=size;count++;if(size>=100*1024*1024)throw Error('Oversized GitHub file: '+file);}
+  else {const {size}=await fs.stat(file);total+=size;count++;if(size>=100*1024*1024)throw Error('Oversized GitHub file: '+file);if(file.endsWith('.mp4'))await checkStreaming(file);}
  }
 }
 await inspect(destination);
 if(total>=1024**3)throw Error('Build exceeds GitHub Pages 1 GiB limit');
-console.log(`Static build ready: ${count} files, ${(total/1024**2).toFixed(1)} MiB; all listed images and videos local.`);
+console.log(`Static build ready: ${count} files, ${(total/1024**2).toFixed(1)} MiB; all listed assets local, all MP4s ready for streaming.`);
