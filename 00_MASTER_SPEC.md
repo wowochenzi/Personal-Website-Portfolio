@@ -26,7 +26,7 @@ FOLDER_NAV
 ARCHIVE
   ├─ 双击 PAWTERN → PROJECT_BOOK
   ├─ 双击 WoodLab → PROJECT_BOOK
-  ├─ 双击 NuoFeild → PROJECT_BOOK
+  ├─ 双击 NuoField → PROJECT_BOOK
   ├─ 双击 追花为生 → PROJECT_BOOK
   └─ 点击 Other → OTHER_WORKS
 ```
@@ -57,7 +57,7 @@ DEMO / GIF / VIDEO
 
 1. PAWTERN 爪织
 2. WoodLab 木玩工坊
-3. NuoFeild 傩场
+3. NuoField 傩场
 4. 追花为生
 5. Other Works
 

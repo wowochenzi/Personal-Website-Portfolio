@@ -30,7 +30,7 @@ WoodLab 是一套面向设计学生与产品设计者的 AI 辅助木制玩具�
 
 ---
 
-## NuoFeild 傩场
+## NuoField 傩场
 
 **分类**  
 Vibe Designing / 交互设计 / 数字遗产 / 沉浸体验

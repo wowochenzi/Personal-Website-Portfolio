@@ -10,7 +10,7 @@
 
 ## Content / Archive
 
-目录纸先放下，随后建立履历底纸和蓝色前景文件夹，五个项目意象按 PAWTERN、WoodLab、NuoFeild、追花为生、Other 排序，以 110ms 间隔落下。最后一个意象在 1120ms 落定后恢复拖拽。Content 标题、目录与物件标签随后分组揭示，整体不超过 2100ms。
+目录纸先放下，随后建立履历底纸和蓝色前景文件夹，五个项目意象按 PAWTERN、WoodLab、NuoField、追花为生、Other 排序，以 110ms 间隔落下。最后一个意象在 1120ms 落定后恢复拖拽。Content 标题、目录与物件标签随后分组揭示，整体不超过 2100ms。
 
 入场早期同时使用 inert、pointer-events 和拖拽处理器的状态检查锁定互动。完成后继续使用原来的拖拽、层级持久化、双击、触控和键盘打开逻辑。Project / Other 返回 Archive 时仅 180ms 短淡入，恢复保存的位置和层级，不重播铺开；再次从 Choose 打开则重播。
 

@@ -2211,13 +2211,13 @@
               },
               {
                 "id": "3:381",
-                "name": "Nuo Feild",
+                "name": "Nuo Field",
                 "type": "TEXT",
                 "x": 918,
                 "y": 375.942138671875,
                 "width": 99.75122833251953,
                 "height": 20.942243576049805,
-                "text": "Nuo Feild",
+                "text": "Nuo Field",
                 "fontSize": 17.635574340820312
               }
             ]

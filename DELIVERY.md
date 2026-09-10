@@ -71,14 +71,14 @@ qa/                           验收说明及检查结果
 | --- | --- |
 | PAWTERN | https://wowochenzi.github.io/Pawtern/ |
 | WoodLab | https://www.wanghuaisen.com/ |
-| NuoFeild | https://wowochenzi.github.io/nuo-field/ |
+| NuoField | https://wowochenzi.github.io/nuo-field/ |
 | 追花为生 | https://liuyiling021122-jpg.github.io/visual-analysis/ |
 
 这些地址通过项目说明中的按钮打开。它们是外部网站，不会被当作本地视频或嵌入的 iframe。
 
 ## 项目演示媒体
 
-四个项目的原始高清录屏均已保存在 `assets/media` 并写入 `content/projects.json`。PAWTERN 在圆角手机样机内静音自动循环播放，无人工控制。WoodLab、NuoFeild 与追花为生使用简约米色圆角边框，提供播放/暂停、进度与音量控制；WoodLab 和追花为生精确裁去录屏的外侧黑边，并按裁后比例显示，源文件不转码或拉伸。傩场默认开启配乐，浏览器限制有声自动播放时可点击“播放影片 · 开启配乐”。离开视口或切换后台时暂停，手动暂停后不会因滚动回来而自动重启。
+四个项目的原始高清录屏均已保存在 `assets/media` 并写入 `content/projects.json`。PAWTERN 在圆角手机样机内静音自动循环播放，无人工控制。WoodLab、NuoField 与追花为生使用简约米色圆角边框，提供播放/暂停、进度与音量控制；WoodLab 和追花为生精确裁去录屏的外侧黑边，并按裁后比例显示，源文件不转码或拉伸。傩场默认开启配乐，浏览器限制有声自动播放时可点击“播放影片 · 开启配乐”。离开视口或切换后台时暂停，手动暂停后不会因滚动回来而自动重启。
 
 ## Figma 与字体
 

@@ -63,7 +63,7 @@ https://www.figma.com/design/I0vjlstlIsfglzKtYf6oK3/PORTFOLIO_WEB_ASSETS?node-id
 4. Archive / Content
 5. PAWTERN Book + Demo
 6. WoodLab Book + Demo
-7. NuoFeild Book + Demo
+7. NuoField Book + Demo
 8. 追花为生 Book + Demo
 9. Other Works
 
@@ -126,7 +126,7 @@ Desktop 双击主项目直接进入 Book。
 书页必须直接使用 Figma：
 - PAWTERN 18 页
 - WoodLab 10 页
-- NuoFeild 8 页
+- NuoField 8 页
 - 追花为生 8 页
 
 不要拉伸或裁切文字。
@@ -141,7 +141,7 @@ PAWTERN：
 - 手机内部播放独立 GIF / MP4
 - 右侧项目说明
 
-WoodLab / NuoFeild / 追花为生：
+WoodLab / NuoField / 追花为生：
 - Book 下方先项目说明
 - 再 16:9 Demo Video
 

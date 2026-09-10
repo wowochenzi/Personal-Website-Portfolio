@@ -23,7 +23,7 @@
 智能产品设计（实验室项目）  
 人机协同 / 交互设计 / AI工作流
 
-03 NuoFeild 傩场  
+03 NuoField 傩场  
 Vibe Designing（阿里云D20峰会）  
 交互设计 / 数字遗产 / 沉浸体验
 
